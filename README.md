@@ -46,6 +46,7 @@
 ### CS241 - 问题求解与实践
 
 * 英文班
+    * [@BugenZhao, 2019 Fall](https://github.com/BugenZhao/MTAnalyzer)
     * [@skyzh, 2019 Fall](https://github.com/skyzh/Meteor)
 * 中文班
     * [@Galaxies, 2019 Fall](https://github.com/Galaxies99/CS241-CourseData)
