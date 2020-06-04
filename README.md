@@ -12,7 +12,7 @@
 * [CS356: 操作系统课程设计](#cs356)
 
 <a name="cs149"></a>
-### CS149 - 数据结构
+### CS149 + CS158 - 数据结构 + 数据结构（荣誉）
 
 * Deque
     * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-deque)
@@ -40,7 +40,6 @@
 <a name="cs356"></a>
 ### CS356 - 操作系统课程设计
 
-**英文班**
-
-* Project 1
-  * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj1-AnroidProcessTree)
+* 英文班
+    * Project 1
+        * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj1-AnroidProcessTree)
