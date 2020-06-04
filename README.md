@@ -16,8 +16,8 @@
 
 * SJTU-OJ
     * [@SJTU-OJ, all all](https://github.com/SJTU-OJ/SJTU-OJ.github.io)
-    * [@Not_In_Style, Spring](233333)
-    * [@Aot_In_Style, Spring](233333)
+    * [@Not_In_Style, Spring 2023](233333)
+    * [@Aot_In_Style, Spring 2023](233333)
 
 * Deque
     * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Project-Deque)
