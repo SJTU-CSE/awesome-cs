@@ -15,16 +15,16 @@
 ### CS149 + CS158 - 数据结构 + 数据结构（荣誉）
 
 * SJTU-OJ
-    * [@SJTU-OJ, all](https://github.com/SJTU-OJ/SJTU-OJ.github.io)
+    * [@SJTU-OJ, all all](https://github.com/SJTU-OJ/SJTU-OJ.github.io)
 
 * Deque
+    * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Project-Deque)
     * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-deque)
     * [@skyzh, 2019 Spring](https://github.com/skyzh/data-structure-deque)
-    * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Project-Deque)
 * B-Tree
+    * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Project-BTree)
     * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-BTree)
     * [@skyzh, 2019 Spring](https://github.com/skyzh/BPlusTree)
-    * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Project-BTree)
 * Homework (小作业)
     * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Homework)
 
@@ -32,8 +32,8 @@
 ### MS125 - 编程综合实践
 
 * RISC-V Simulator
-    * [@skyzh, 2019 Summer](https://github.com/skyzh/RISCV-Simulator)
     * [@Galaxies, 2019 Summer](https://github.com/Galaxies99/MS125-RISCV-simulator)
+    * [@skyzh, 2019 Summer](https://github.com/skyzh/RISCV-Simulator)
 * Raft
     * [@skyzh, 2019 Summer](https://github.com/iskyzh/raft)
 * DHT
