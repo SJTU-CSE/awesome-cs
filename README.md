@@ -1,6 +1,10 @@
 # awesome-cs
 
+[![HitCount](http://hits.dwyl.com/skyzh/awesome-cs.svg)](http://hits.dwyl.com/skyzh/awesome-cs)
+[![GitHub contributors](https://img.shields.io/github/contributors-anon/skyzh/awesome-cs?style=flat-square)](https://gitHub.com/skyzh/awesome-cs/graphs/contributors/)
+
 上海交通大学计算机系本科作业参考
+
 
 ## 项目介绍
 
