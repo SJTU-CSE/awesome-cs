@@ -48,7 +48,7 @@ def check_sequence(chunk):
             raise Error(f"unsupported semester {semester}")
     for i in range(len(seq) - 1):
         if not order_key(seq[i], seq[i + 1]):
-            raise Error(f"list is not sorted: {line[i]}, {line[i + 1]}")
+            raise Error(f"list is not sorted: \n{chunk[i]}\n{chunk[i + 1]}")
     print(" ...OK")
     
 
