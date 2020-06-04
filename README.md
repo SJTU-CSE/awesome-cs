@@ -8,9 +8,9 @@
 
 ## 项目介绍
 
-本项目旨在收集 GitHub 上海交通大学本科作业的项目。
+本项目旨在收集 GitHub 上海交通大学计算机系本科（编程）作业。
 
-如果您希望将自己的项目添加到列表中，请通过 (Pull Request)[https://github.com/skyzh/awesome-cs/pulls] 提交。
+如果您希望将自己的项目添加到列表中，请通过 [Pull Request](https://github.com/skyzh/awesome-cs/pulls) 提交。
 
 您的项目应该符合下面的格式：
 ```
@@ -28,7 +28,7 @@
 
 请不要在课程评分尚未开始时上传当前课程的作业。
 
-禁止抄袭、剽窃这些公开的项目，将这些项目原封不动作为自己的作业提交。
+禁止抄袭、剽窃这些公开的项目。禁止将这些公开项目直接作为自己的作业提交。
 
 ## 资源清单
 
@@ -43,7 +43,8 @@
 ### CS149 + CS158 - 数据结构 + 数据结构（荣誉）
 
 * SJTU-OJ
-    * [@SJTU-OJ, all all](https://github.com/SJTU-OJ/SJTU-OJ.github.io)
+    * [@BugenZhao, 2019 Spring](https://github.com/BugenZhao/DataStructure-OJ)
+    * [@SJTU-OJ, 2020 Spring](https://github.com/SJTU-OJ/SJTU-OJ.github.io)
 * Deque
     * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Project-Deque)
     * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-deque)
@@ -53,7 +54,6 @@
     * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-BTree)
     * [@skyzh, 2019 Spring](https://github.com/skyzh/BPlusTree)
 * 小作业
-    * [@BugenZhao, 2019 Spring](https://github.com/BugenZhao/DataStructure-OJ)
     * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Homework)
 
 <a name="ms125"></a>
