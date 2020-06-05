@@ -35,9 +35,9 @@
 ### 目录
 
 * [CS149, CS158: 数据结构](#cs149)
-* [MS125: 编程综合实践](#ms125)
 * [CS241: 问题求解与实践](#cs241)
 * [CS356: 操作系统课程设计](#cs356)
+* [MS125: 编程综合实践](#ms125)
 
 <a name="cs149"></a>
 ### CS149 + CS158 - 数据结构 + 数据结构（荣誉）
@@ -56,20 +56,6 @@
 * 小作业
     * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Homework)
 
-<a name="ms125"></a>
-### MS125 - 编程综合实践
-
-* RISC-V Simulator
-    * [@Galaxies, 2019 Summer](https://github.com/Galaxies99/MS125-RISCV-simulator)
-    * [@skyzh, 2019 Summer](https://github.com/skyzh/RISCV-Simulator)
-* Raft
-    * [@skyzh, 2019 Summer](https://github.com/iskyzh/raft)
-* DHT
-    * [@skyzh, 2019 Summer](https://github.com/skyzh/go-dht)
-* Chatroom
-    * [@Galaxies, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-server) (Server)
-    * [@Galaxies, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-client) (Client)
-    
 <a name="cs241"></a>
 ### CS241 - 问题求解与实践
 
@@ -90,3 +76,17 @@
         * [@skyzh, 2020 Spring](https://github.com/iskyzh/pstree_android)
 * 中文班
     * [@Galaxies, 2020 Spring](https://github.com/Galaxies99/CS307-Projects)
+
+<a name="ms125"></a>
+### MS125 - 编程综合实践
+
+* RISC-V Simulator
+    * [@Galaxies, 2019 Summer](https://github.com/Galaxies99/MS125-RISCV-simulator)
+    * [@skyzh, 2019 Summer](https://github.com/skyzh/RISCV-Simulator)
+* Raft
+    * [@skyzh, 2019 Summer](https://github.com/iskyzh/raft)
+* DHT
+    * [@skyzh, 2019 Summer](https://github.com/skyzh/go-dht)
+* Chatroom
+    * [@Galaxies, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-server) (Server)
+    * [@Galaxies, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-client) (Client)
