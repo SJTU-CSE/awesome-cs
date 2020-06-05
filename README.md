@@ -44,7 +44,7 @@
 
 ### CS125 - 程序设计
 
-* [@David990917, 2020 Spring](https://github.com/david990917/My-Computer-Science-Learning/tree/master/CPP-Programming-Course)
+* [@david990917, 2020 Spring](https://github.com/david990917/My-Computer-Science-Learning/tree/master/CPP-Programming-Course)
 
 <a name="cs149"></a>
 
