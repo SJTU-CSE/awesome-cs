@@ -34,12 +34,20 @@
 
 ### 目录
 
+* [CS125: 程序设计](#cs125)
 * [CS149, CS158: 数据结构](#cs149)
 * [CS241: 问题求解与实践](#cs241)
 * [CS356: 操作系统课程设计](#cs356)
 * [MS125: 编程综合实践](#ms125)
 
+<a name="cs125"></a>
+
+### CS125 - 程序设计
+
+* [@David990917, 2020 Spring](https://github.com/david990917/My-Computer-Science-Learning/tree/master/CPP-Programming-Course)
+
 <a name="cs149"></a>
+
 ### CS149 + CS158 - 数据结构 + 数据结构（荣誉）
 
 * SJTU-OJ
