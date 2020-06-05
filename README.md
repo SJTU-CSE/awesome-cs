@@ -65,7 +65,7 @@
 * Raft
     * [@skyzh, 2019 Summer](https://github.com/iskyzh/raft)
 * DHT
-    * [@skyzh, 2019 Summer](https://github.com/skyzh/go-ght)
+    * [@skyzh, 2019 Summer](https://github.com/skyzh/go-dht)
 * Chatroom
     * [@Galaxies, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-server) (Server)
     * [@Galaxies, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-client) (Client)
