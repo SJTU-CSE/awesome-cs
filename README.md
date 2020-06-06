@@ -1,7 +1,7 @@
 # awesome-cs
 
-[![HitCount](http://hits.dwyl.com/skyzh/awesome-cs.svg)](http://hits.dwyl.com/skyzh/awesome-cs)
-[![GitHub contributors](https://img.shields.io/github/contributors-anon/skyzh/awesome-cs?style=flat-square)](https://gitHub.com/skyzh/awesome-cs/graphs/contributors/)
+[![HitCount](http://hits.dwyl.com/SJTU-CSE/awesome-cs.svg)](http://hits.dwyl.com/SJTU-CSE/awesome-cs)
+[![GitHub contributors](https://img.shields.io/github/contributors-anon/SJTU-CSE/awesome-cs?style=flat-square)](https://gitHub.com/SJTU-CSE/awesome-cs/graphs/contributors/)
 
 上海交通大学计算机系本科作业参考
 
@@ -10,7 +10,7 @@
 
 本项目旨在收集 GitHub 上海交通大学计算机系本科（编程）作业。
 
-如果您希望将自己的项目添加到列表中，请通过 [Pull Request](https://github.com/skyzh/awesome-cs/pulls) 提交。
+如果您希望将自己的项目添加到列表中，请通过 [Pull Request](https://github.com/SJTU-CSE/awesome-cs/pulls) 提交。
 
 您的项目应该符合下面的格式：
 ```
