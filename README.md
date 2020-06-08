@@ -70,7 +70,7 @@
     * [@BugenZhao, 2019 Fall](https://github.com/BugenZhao/MTAnalyzer)
     * [@MinoZhao, 2019 Fall](https://github.com/doctormin/Hangzhou-Metro-Data-Visualizer)
     * [@skyzh, 2019 Fall](https://github.com/skyzh/Meteor)
-     * [@HaotianXue, 2019 Fall](https://github.com/xavihart/CS241_QtProj)
+    * [@HaotianXue, 2019 Fall](https://github.com/xavihart/CS241_QtProj)
 * 中文班
     * [@Galaxies, 2019 Fall](https://github.com/Galaxies99/CS241-CourseData)
 
