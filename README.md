@@ -68,6 +68,7 @@
 
 * 英文班
     * [@BugenZhao, 2019 Fall](https://github.com/BugenZhao/MTAnalyzer)
+    * [@HaotianXue, 2019 Fall](https://github.com/xavihart/CS241_QtProj)
     * [@MinoZhao, 2019 Fall](https://github.com/doctormin/Hangzhou-Metro-Data-Visualizer)
     * [@skyzh, 2019 Fall](https://github.com/skyzh/Meteor)
 * 中文班
