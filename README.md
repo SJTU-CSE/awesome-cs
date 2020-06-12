@@ -36,6 +36,7 @@
 
 * [CS125: 程序设计](#cs125)
 * [CS149, CS158: 数据结构](#cs149)
+* [CS214: 算法与复杂性](#cs214)
 * [CS241: 问题求解与实践](#cs241)
 * [CS356: 操作系统课程设计](#cs356)
 * [MS125: 编程综合实践](#ms125)
@@ -62,6 +63,12 @@
     * [@skyzh, 2019 Spring](https://github.com/skyzh/BPlusTree)
 * 小作业
     * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Homework)
+
+<a name="cs214"></a>
+### CS214 - 算法与复杂性
+
+* 中文班
+    * [@LuminousXLB, 2020 Spring](https://github.com/LuminousXLB/Algorithms-Notes)
 
 <a name="cs241"></a>
 ### CS241 - 问题求解与实践
