@@ -91,6 +91,7 @@
         * [@skyzh, 2020 Spring](https://github.com/iskyzh/pstree_android)
 * 中文班
     * [@Galaxies, 2020 Spring](https://github.com/Galaxies99/CS307-Projects)
+    * [@HaotianXue, 2020 Spring](https://github.com/xavihart/OS-Lab)
 
 <a name="ms125"></a>
 ### MS125 - 编程综合实践
