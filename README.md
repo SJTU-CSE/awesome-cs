@@ -68,6 +68,7 @@
 ### CS214 - 算法与复杂性
 
 * 中文班
+    * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2)
     * [@LuminousXLB, 2020 Spring](https://github.com/LuminousXLB/Algorithms-Notes)
 
 <a name="cs241"></a>
