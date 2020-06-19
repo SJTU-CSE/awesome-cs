@@ -1,7 +1,6 @@
 # awesome-cs
 
 [![HitCount](http://hits.dwyl.com/SJTU-CSE/awesome-cs.svg)](http://hits.dwyl.com/SJTU-CSE/awesome-cs)
-[![GitHub contributors](https://img.shields.io/github/contributors-anon/SJTU-CSE/awesome-cs?style=flat-square)](https://gitHub.com/SJTU-CSE/awesome-cs/graphs/contributors/)
 
 上海交通大学计算机系本科作业参考
 
