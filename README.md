@@ -35,6 +35,7 @@
 ### 目录
 
 * [CS125: 程序设计](#cs125)
+* [CS145: 计算机系统结构实验](#cs145)
 * [CS149, CS158: 数据结构](#cs149)
 * [CS214: 算法与复杂性](#cs214)
 * [CS241: 问题求解与实践](#cs241)
@@ -47,6 +48,12 @@
 
 * OJ 作业
    * [@david990917, 2020 Spring](https://github.com/david990917/My-Computer-Science-Learning/tree/master/CPP-Programming-Course)
+
+<a name="cs145"></a>
+### CS145 - 计算机系统结构实验
+
+* All labs
+   * [@skyzh, 2020 Spring](https://github.com/skyzh/mips-cpu)
 
 <a name="cs149"></a>
 ### CS149 + CS158 - 数据结构 + 数据结构（荣誉）
