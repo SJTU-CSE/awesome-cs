@@ -71,6 +71,8 @@
     * [@LuminousXLB, 2020 Spring](https://github.com/LuminousXLB/Algorithms-Notes)
 * 笔记
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
+* 英文班 Project
+    * [@Galaxies99, @KoalaYan, @DicardoX, 2020 Spring](https://github.com/Galaxies99/CS214-Project) 
 
 <a name="cs241"></a>
 ### CS241 - 问题求解与实践
