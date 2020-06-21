@@ -27,7 +27,9 @@
 
 请不要在课程评分尚未开始时上传当前课程的作业。
 
-禁止抄袭、剽窃这些公开的项目。禁止将这些公开项目直接作为自己的作业提交。
+禁止抄袭、剽窃这些公开的项目。
+
+如果您的课程教师或助教明确表示该课程的相关内容不能被公开索引，请联系我们删除相关内容。
 
 ## 资源清单
 
@@ -61,8 +63,7 @@
     * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Project-BTree)
     * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-BTree)
     * [@skyzh, 2019 Spring](https://github.com/skyzh/BPlusTree)
-* 小作业
-    * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Homework)
+* 小作业：数据结构（荣誉）课程助教不建议公开索引代码。([#29](https://github.com/SJTU-CSE/awesome-cs/pull/29))
 
 <a name="cs214"></a>
 ### CS214 - 算法与复杂性
