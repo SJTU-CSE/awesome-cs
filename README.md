@@ -63,8 +63,7 @@
     * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Project-BTree)
     * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-BTree)
     * [@skyzh, 2019 Spring](https://github.com/skyzh/BPlusTree)
-* 小作业
-    * 数据结构（荣誉）课程不建议公开索引代码。
+* 小作业：数据结构（荣誉）课程助教不建议公开索引代码。([#29](https://github.com/SJTU-CSE/awesome-cs/pull/29))
 
 <a name="cs214"></a>
 ### CS214 - 算法与复杂性
