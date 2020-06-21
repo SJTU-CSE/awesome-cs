@@ -55,6 +55,8 @@ def check_sequence(chunk):
 def parse_bullet_list(chunk):
     valid_lines = list(filter(lambda x: len(x.strip()) != 0, chunk))
     space_list = list(map(count_space, valid_lines))
+    if not space_list:
+        return
     if min(space_list) == max(space_list):
         check_sequence(chunk)
     else:
