@@ -39,8 +39,10 @@
 * [CS149, CS158: 数据结构](#cs149)
 * [CS214: 算法与复杂性](#cs214)
 * [CS241: 问题求解与实践](#cs241)
+* [CS307: 操作系统](#cs307)
 * [CS356: 操作系统课程设计](#cs356)
 * [CS499: 计算机科学中的数学基础](#cs499)
+* [EI209: 计算机组成](#ei209)
 * [MS125: 编程综合实践](#ms125)
 
 <a name="cs125"></a>
@@ -86,6 +88,12 @@
 * 中文班
     * [@Galaxies, 2019 Fall](https://github.com/Galaxies99/CS241-CourseData)
 
+<a name="cs307"></a>
+### CS307 - 操作系统
+
+* 笔记
+    * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
+
 <a name="cs356"></a>
 ### CS356 - 操作系统课程设计
 
@@ -103,6 +111,12 @@
 
 * 笔记
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
+
+<a name="ei209"></a>
+### EI209 - 计算机组成
+
+* 笔记
+  * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2)
 
 <a name="ms125"></a>
 ### MS125 - 编程综合实践
