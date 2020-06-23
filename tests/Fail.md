@@ -19,3 +19,5 @@
 * 如何做五个失败者
     * [2330 Summer](https://github.com/skyzh/i-am-a-failure)
     * [@skyzh, 2330 Summer]()
+* 如何做六个失败者
+    * [#233](https://github.com/skyzh/i-am-a-failure/pulls/233)
