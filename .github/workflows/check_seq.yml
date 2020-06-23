@@ -3,7 +3,7 @@ name: check README.md style
 on: [push, pull_request]
 
 jobs:
-  check:
+  check_style:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
