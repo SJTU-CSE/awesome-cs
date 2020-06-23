@@ -17,4 +17,4 @@ jobs:
         pip install mistune==2.0.0a4
     - name: Check Style
       id: check_style
-      run: ./parser.py
+      run: ./parser.py ./README.md

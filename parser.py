@@ -21,16 +21,19 @@ def order_key(a, b):
     semester_idx_a = idx_dict[semester_a]
     semester_idx_b = idx_dict[semester_b]
     if year_a < year_b:
-        return True
+        return True, None
     if year_a > year_b:
-        return False
+        return False, "Year"
     if year_a == year_b:
         if semester_idx_a < semester_idx_b:
-            return True
+            return True, None
         if semester_idx_a > semester_idx_b:
-            return False
+            return False, "Semester: Spring < Summer < Fall"
         if semester_idx_a == semester_idx_b:
-            return author_a <= author_b
+            if author_a <= author_b:
+                return True, None
+            else:
+                return False, "Author: Aaa < bBb < Ccc"
 
 def parse_info(line):
     x = re.search(r"\[@(.*?), (.*?) (.*?)\]", line)
@@ -42,7 +45,7 @@ def parse_info(line):
             return False, f"failed to parse"
     author, year, semester = x.group(1), x.group(2), x.group(3)
     if semester not in ["Spring", "Fall", "all", "Summer"]:
-        return False, f"unsupported semester {semester}"
+        return False, f"unsupported semester: {semester}"
     return True, (author, year, semester)
 
 def in_sequence(a, b):
@@ -55,8 +58,9 @@ def in_sequence(a, b):
         author, year, semester = result
         seq.append((author, year, semester))
     for i in range(len(seq) - 1):
-        if not order_key(seq[i], seq[i + 1]):
-            return False, f"list is not sorted"
+        success, reason = order_key(seq[i], seq[i + 1])
+        if not success:
+            return False, f"list is not sorted, {reason}"
     return True, None
 
 def fail(text):
@@ -206,7 +210,7 @@ md2md = create_markdown(escape=False, renderer=MdRenderer())
 
 if __name__ == '__main__':
     import sys
-    with open('README.md') as f:
+    with open(sys.argv[1]) as f:
         src = f.read()
         print(md2md(src))
         if not parse_success:
