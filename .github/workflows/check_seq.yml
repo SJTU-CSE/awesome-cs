@@ -1,4 +1,4 @@
-name: Check Style
+name: check README.md style
 
 on: [push, pull_request]
 
