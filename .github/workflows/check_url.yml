@@ -1,0 +1,12 @@
+name: check URL accessibility
+
+on: [pull_request]
+
+jobs:
+  check_url:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Check URL
+      id: check_url
+      run: ./url_check.sh
