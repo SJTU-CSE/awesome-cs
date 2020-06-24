@@ -92,7 +92,7 @@
         * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject1)
         * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj1-AnroidProcessTree)
         * [@skyzh, 2020 Spring](https://github.com/iskyzh/pstree_android)
-    * Project 2 (OOM Killer)
+    * Project 2
         * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)
 * 中文班
     * [@Galaxies, 2020 Spring](https://github.com/Galaxies99/CS307-Projects)
