@@ -9,4 +9,6 @@ jobs:
     - uses: actions/checkout@v1
     - name: Check URL
       id: check_url
-      run: ./url_check.sh
+      run: |
+        git diff origin/master:README.md HEAD:README.md | grep -E "^\+" | grep -Eo '(http|https)://[^)"]+' > .patch || true
+        ./url_check.sh < .patch

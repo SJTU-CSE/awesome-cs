@@ -4,9 +4,11 @@ from mistune import create_markdown
 from mistune.renderers import BaseRenderer
 import re
 
+
 class Error(Exception):
     """Base class for exceptions in this module."""
     pass
+
 
 def order_key(a, b):
     idx_dict = {}
@@ -28,12 +30,13 @@ def order_key(a, b):
         if semester_idx_a < semester_idx_b:
             return True, None
         if semester_idx_a > semester_idx_b:
-            return False, "Semester: Spring < Summer < Fall"
+            return False, "Semester should be Spring < Summer < Fall"
         if semester_idx_a == semester_idx_b:
             if author_a <= author_b:
                 return True, None
             else:
-                return False, "Author: Aaa < bBb < Ccc"
+                return False, "Author should be Aaa < bBb < Ccc"
+
 
 def parse_info(line):
     x = re.search(r"\[@(.*?), (.*?) (.*?)\]", line)
@@ -42,11 +45,12 @@ def parse_info(line):
         if x:
             return True, None
         else:
-            return False, f"failed to parse"
+            return False, f"failed to parse: no [@user, year semester] found"
     author, year, semester = x.group(1), x.group(2), x.group(3)
     if semester not in ["Spring", "Fall", "all", "Summer"]:
         return False, f"unsupported semester: {semester}"
     return True, (author, year, semester)
+
 
 def in_sequence(a, b):
     seq = []
@@ -54,17 +58,22 @@ def in_sequence(a, b):
     for line in chunk:
         success, result = parse_info(line)
         if not success or not result:
-            return False, "failed to parse"
+            if line == a:
+                return False, "previous line is broken"
+            else:
+                return False, "failed to parse: unknown"
         author, year, semester = result
         seq.append((author, year, semester))
     for i in range(len(seq) - 1):
         success, reason = order_key(seq[i], seq[i + 1])
         if not success:
-            return False, f"list is not sorted, {reason}"
+            return False, f"list not sorted: {reason}"
     return True, None
+
 
 def fail(text):
     return ' ❌ \033[31;1m' + text + '\033[0m'
+
 
 def ok(text):
     return '  ✅ \033[32;1m' + text + '\033[0m'
@@ -77,9 +86,11 @@ UL_BULLET = re.compile(r'(?<=^)(\*)( +)', re.MULTILINE)
 
 parse_success = True
 
+
 def indent(text, level, tab_length=4):
     ''' Indent block of text by level '''
     return '\n'.join(f'{" "*tab_length*level}{line}' for line in text.split('\n'))
+
 
 class MdRenderer(BaseRenderer):
     NAME = 'md'
@@ -190,7 +201,8 @@ class MdRenderer(BaseRenderer):
             else:
                 if level == self.lst_list_level:
                     sequence_check_text = ok("")
-                    success, result = in_sequence(self.lst_list_item, firstline)
+                    success, result = in_sequence(
+                        self.lst_list_item, firstline)
                     if not success:
                         sequence_check_text = fail(result)
                         parse_success = False
@@ -198,7 +210,7 @@ class MdRenderer(BaseRenderer):
                     sequence_check_text = ok("")
             self.lst_list_level = level
             self.lst_list_item = firstline
-        
+
         x = text.split("\n")
         x[0] += sequence_check_text
         x = "\n".join(x)
@@ -214,4 +226,6 @@ if __name__ == '__main__':
         src = f.read()
         print(md2md(src))
         if not parse_success:
-            raise Error("check failed, please check the above log")
+            raise Error(fail("check failed, please refer to the above log"))
+        else:
+            print(ok("check success"))
