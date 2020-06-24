@@ -2,10 +2,6 @@
 
 set -e
 
-echo "obtaining patch file..."
-
-git diff origin/master:README.md HEAD:README.md | grep -E "^\+" | grep -Eo '(http|https)://[^)"]+' > .patch
-
 echo "checking URLs..."
 
 while IFS= read -r line
@@ -17,6 +13,6 @@ do
         echo "  ... failed"
         false
     fi
-done < .patch
+done
 
 echo "check successfully"
