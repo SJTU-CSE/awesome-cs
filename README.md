@@ -93,7 +93,7 @@
 ### CS307 - 操作系统
 
 * 笔记
-    * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
+    * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2/) 中文班
 
 <a name="cs356"></a>
 ### CS356 - 操作系统课程设计
