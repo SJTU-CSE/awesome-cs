@@ -1,9 +1,9 @@
-name: Check Style
+name: check README.md style
 
 on: [push, pull_request]
 
 jobs:
-  check:
+  check_style:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
@@ -11,6 +11,10 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.7
-    - name: check style
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install mistune==2.0.0a4
+    - name: Check Style
       id: check_style
-      run: ./ci.py
+      run: ./parser.py ./README.md
