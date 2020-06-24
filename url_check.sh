@@ -2,13 +2,9 @@
 
 set -e
 
-pull_number=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")
+echo "obtaining patch file..."
 
-echo "running on pull request #$pull_number"
-
-echo "fetching patch file..."
-
-curl -sfL https://github.com/SJTU-CSE/awesome-cs/pull/$pull_number.patch | grep -E "^\+" | grep -Eo '(http|https)://[^)"]+' > .patch
+git diff origin/master:README.md HEAD:README.md | grep -E "^\+" | grep -Eo '(http|https)://[^)"]+' > .patch
 
 echo "checking URLs..."
 
@@ -23,4 +19,4 @@ do
     fi
 done < .patch
 
-echo "checking successfully"
+echo "check successfully"
