@@ -41,6 +41,7 @@
 * [CS241: 问题求解与实践](#cs241)
 * [CS307: 操作系统](#cs307)
 * [CS356: 操作系统课程设计](#cs356)
+* [CS359: 计算机系统结构](#cs359)
 * [CS499: 计算机科学中的数学基础](#cs499)
 * [EI209: 计算机组成](#ei209)
 * [MS125: 编程综合实践](#ms125)
@@ -58,13 +59,15 @@
     * [@BugenZhao, 2019 Spring](https://github.com/BugenZhao/DataStructure-OJ)
     * [@SJTU-OJ, 2020 Spring](https://github.com/SJTU-OJ/SJTU-OJ.github.io)
 * Deque
-    * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Project-Deque)
+    * [@Galaxies99, 2019 Spring](https://github.com/Galaxies99/CS158-Project-Deque)
     * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-deque)
     * [@skyzh, 2019 Spring](https://github.com/skyzh/data-structure-deque)
 * B-Tree
-    * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Project-BTree)
+    * [@Galaxies99, 2019 Spring](https://github.com/Galaxies99/CS158-Project-BTree)
     * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-BTree)
     * [@skyzh, 2019 Spring](https://github.com/skyzh/BPlusTree)
+* 笔记
+    * [@Galaxies99, 2019 Spring](https://github.com/Galaxies99/SJTU-course-notes) 数据结构（荣誉）
 * 小作业
     * [#29](https://github.com/SJTU-CSE/awesome-cs/pull/29) 数据结构（荣誉）课程助教不建议公开索引代码。
 
@@ -77,6 +80,7 @@
     * [@Galaxies99 @KoalaYan @DicardoX, 2020 Spring](https://github.com/Galaxies99/CS214-Project) 
 * 笔记
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
+    * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
 
 <a name="cs241"></a>
 ### CS241 - 问题求解与实践
@@ -87,13 +91,14 @@
     * [@MinoZhao, 2019 Fall](https://github.com/doctormin/Hangzhou-Metro-Data-Visualizer)
     * [@skyzh, 2019 Fall](https://github.com/skyzh/Meteor)
 * 中文班
-    * [@Galaxies, 2019 Fall](https://github.com/Galaxies99/CS241-CourseData)
+    * [@Galaxies99, 2019 Fall](https://github.com/Galaxies99/CS241-CourseData)
 
 <a name="cs307"></a>
 ### CS307 - 操作系统
 
 * 笔记
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
+    * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
 
 <a name="cs356"></a>
 ### CS356 - 操作系统课程设计
@@ -109,31 +114,39 @@
         * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)
 * 中文班
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/SJTU-CS356-CS307-OSProj)
-    * [@Galaxies, 2020 Spring](https://github.com/Galaxies99/CS307-Projects)
+    * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS307-Projects)
     * [@HaotianXue, 2020 Spring](https://github.com/xavihart/OS-Lab)
+
+<a name="cs359"></a>
+### CS359 - 计算机系统结构
+
+* 笔记
+    * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
 
 <a name="cs499"></a>
 ### CS499 - 计算机科学中的数学基础
 
 * 笔记
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
+    * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
 
 <a name="ei209"></a>
 ### EI209 - 计算机组成
 
 * 笔记
-  * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2)
+    * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2)
+    * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
 
 <a name="ms125"></a>
 ### MS125 - 编程综合实践
 
 * RISC-V Simulator
-    * [@Galaxies, 2019 Summer](https://github.com/Galaxies99/MS125-RISCV-simulator)
+    * [@Galaxies99, 2019 Summer](https://github.com/Galaxies99/MS125-RISCV-simulator)
     * [@skyzh, 2019 Summer](https://github.com/skyzh/RISCV-Simulator)
 * Raft
     * [@skyzh, 2019 Summer](https://github.com/iskyzh/raft)
 * DHT
     * [@skyzh, 2019 Summer](https://github.com/skyzh/go-dht)
 * Chatroom
-    * [@Galaxies, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-server) (Server)
-    * [@Galaxies, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-client) (Client)
+    * [@Galaxies99, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-server) (Server)
+    * [@Galaxies99, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-client) (Client)
