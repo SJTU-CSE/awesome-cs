@@ -99,6 +99,7 @@
 * 笔记
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
+    * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
 
 <a name="cs356"></a>
 ### CS356 - 操作系统课程设计
@@ -123,6 +124,7 @@
 
 * 笔记
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
+    * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
 
 <a name="cs499"></a>
 ### CS499 - 计算机科学中的数学基础
@@ -135,8 +137,9 @@
 ### EI209 - 计算机组成
 
 * 笔记
-    * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2)
+    * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
+    * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 中文班
 
 <a name="ms125"></a>
 ### MS125 - 编程综合实践
