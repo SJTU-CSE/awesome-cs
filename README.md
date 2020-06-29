@@ -117,12 +117,6 @@
 * Project
     * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS308-Project)
 
-<a name="cs308"></a>
-### CS308 - 编译原理 (A类)
-
-* Project
-    * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS308-Project)
-
 <a name="cs356"></a>
 ### CS356 - 操作系统课程设计
 
