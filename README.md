@@ -50,8 +50,8 @@
 * [CS473: GPU计算及深度学习](#cs473)
 * [CS499: 计算机科学中的数学基础](#cs499)
 * [EI209: 计算机组成](#ei209)
-* [SE353: 程序分析与验证](#se353)
 * [MS125: 编程综合实践](#ms125)
+* [SE353: 程序分析与验证](#se353)
 
 <a name="cs125"></a>
 ### CS125 - 程序设计
@@ -193,12 +193,6 @@
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 中文班
 
-<a name="se353"></a>
-### SE353 - 程序分析与验证
-
-* Project
-    * [@wzh99, 2020 Spring](https://github.com/wzh99/VarCheck)
-
 <a name="ms125"></a>
 ### MS125 - 编程综合实践
 
@@ -212,3 +206,9 @@
 * Chatroom
     * [@Galaxies99, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-server) (Server)
     * [@Galaxies99, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-client) (Client)
+
+<a name="se353"></a>
+### SE353 - 程序分析与验证
+
+* Project
+    * [@wzh99, 2020 Spring](https://github.com/wzh99/VarCheck)
