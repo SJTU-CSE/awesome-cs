@@ -37,10 +37,11 @@
 
 * [CS125: 程序设计](#cs125)
 * [CS145: 计算机系统结构实验](#cs145)
-* [CS149, CS158: 数据结构](#cs149)
+* [CS149, CS158, CS358: 数据结构](#cs149)
 * [CS214: 算法与复杂性](#cs214)
 * [CS241: 问题求解与实践](#cs241)
 * [CS307: 操作系统](#cs307)
+* [CS308: 编译原理](#cs308)
 * [CS356: 操作系统课程设计](#cs356)
 * [CS359: 计算机系统结构](#cs359)
 * [CS499: 计算机科学中的数学基础](#cs499)
@@ -57,12 +58,14 @@
 ### CS145 - 计算机系统结构实验
 
 <a name="cs149"></a>
-### CS149 + CS158 - 数据结构 + 数据结构（荣誉）
+### CS149 + CS158 + CS358 - 数据结构 + 数据结构 (荣誉) + 数据结构 (A类)
 
 * SJTU-OJ
+    * [@Neight99, 2018 Fall](https://github.com/Neight99/SJTU_DataStructure_A)
     * [@BugenZhao, 2019 Spring](https://github.com/BugenZhao/DataStructure-OJ)
     * [@SJTU-OJ, 2020 Spring](https://github.com/SJTU-OJ/SJTU-OJ.github.io)
 * Deque
+    * [@Neight99, 2018 Fall](https://github.com/Neight99/SJTU_DataStructure_A/tree/master/DS_STL)
     * [@Galaxies99, 2019 Spring](https://github.com/Galaxies99/CS158-Project-Deque)
     * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-deque)
     * [@skyzh, 2019 Spring](https://github.com/skyzh/data-structure-deque)
@@ -70,6 +73,8 @@
     * [@Galaxies99, 2019 Spring](https://github.com/Galaxies99/CS158-Project-BTree)
     * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-BTree)
     * [@skyzh, 2019 Spring](https://github.com/skyzh/BPlusTree)
+* Map
+    * [@Neight99, 2018 Fall](https://github.com/Neight99/SJTU_DataStructure_A/tree/master/DS_STL)
 * 笔记
     * [@Galaxies99, 2019 Spring](https://github.com/Galaxies99/SJTU-course-notes) 数据结构（荣誉）
 * 小作业
@@ -79,6 +84,7 @@
 ### CS214 - 算法与复杂性
 
 * 中文班
+    * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS214-Project)
     * [@LuminousXLB, 2020 Spring](https://github.com/LuminousXLB/Algorithms-Notes)
 * 英文班 Project
     * [@Galaxies99 @KoalaYan @DicardoX, 2020 Spring](https://github.com/Galaxies99/CS214-Project) 
@@ -98,11 +104,17 @@
     * [@Galaxies99, 2019 Fall](https://github.com/Galaxies99/CS241-CourseData)
 
 <a name="cs307"></a>
-### CS307 - 操作系统
+### CS307 - 操作系统 (D类)
 
 * 笔记
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
+
+<a name="cs308"></a>
+### CS308 - 编译原理 (A类)
+
+* Project
+    * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS308-Project)
 
 <a name="cs356"></a>
 ### CS356 - 操作系统课程设计
@@ -123,7 +135,7 @@
     * [@HaotianXue, 2020 Spring](https://github.com/xavihart/OS-Lab)
 
 <a name="cs359"></a>
-### CS359 - 计算机系统结构
+### CS359 - 计算机系统结构 (A类)
 
 * 笔记
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
