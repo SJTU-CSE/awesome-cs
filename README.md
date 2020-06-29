@@ -37,7 +37,7 @@
 
 * [CS125: 程序设计](#cs125)
 * [CS145: 计算机系统结构实验](#cs145)
-* [CS149, CS158: 数据结构](#cs149)
+* [CS149, CS158, CS358: 数据结构](#cs149)
 * [CS214: 算法与复杂性](#cs214)
 * [CS241: 问题求解与实践](#cs241)
 * [CS307: 操作系统](#cs307)
@@ -46,6 +46,7 @@
 * [CS499: 计算机科学中的数学基础](#cs499)
 * [EI209: 计算机组成](#ei209)
 * [MS125: 编程综合实践](#ms125)
+* [CS308: 编译原理（A类）](#cs308)
 
 <a name="cs125"></a>
 ### CS125 - 程序设计
@@ -57,12 +58,14 @@
 ### CS145 - 计算机系统结构实验
 
 <a name="cs149"></a>
-### CS149 + CS158 - 数据结构 + 数据结构（荣誉）
+### CS149 + CS158 + CS358 - 数据结构 + 数据结构（荣誉）+ 数据结构A
 
 * SJTU-OJ
+    * [@Neight99, 2018 Fall](https://github.com/Neight99/SJTU_DataStructure_A)
     * [@BugenZhao, 2019 Spring](https://github.com/BugenZhao/DataStructure-OJ)
     * [@SJTU-OJ, 2020 Spring](https://github.com/SJTU-OJ/SJTU-OJ.github.io)
 * Deque
+    * [@Neight99, 2018 Fall](https://github.com/Neight99/SJTU_DataStructure_A/tree/master/DS_STL)
     * [@Galaxies99, 2019 Spring](https://github.com/Galaxies99/CS158-Project-Deque)
     * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-deque)
     * [@skyzh, 2019 Spring](https://github.com/skyzh/data-structure-deque)
@@ -70,6 +73,8 @@
     * [@Galaxies99, 2019 Spring](https://github.com/Galaxies99/CS158-Project-BTree)
     * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-BTree)
     * [@skyzh, 2019 Spring](https://github.com/skyzh/BPlusTree)
+* Map
+    * [@Neight99, 2018 Fall](https://github.com/Neight99/SJTU_DataStructure_A/tree/master/DS_STL)
 * 笔记
     * [@Galaxies99, 2019 Spring](https://github.com/Galaxies99/SJTU-course-notes) 数据结构（荣誉）
 * 小作业
@@ -79,6 +84,7 @@
 ### CS214 - 算法与复杂性
 
 * 中文班
+    * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS214-Project)
     * [@LuminousXLB, 2020 Spring](https://github.com/LuminousXLB/Algorithms-Notes)
 * 英文班 Project
     * [@Galaxies99 @KoalaYan @DicardoX, 2020 Spring](https://github.com/Galaxies99/CS214-Project) 
@@ -155,3 +161,9 @@
 * Chatroom
     * [@Galaxies99, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-server) (Server)
     * [@Galaxies99, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-client) (Client)
+
+<a name="cs308"></a>
+### CS308 - 编译原理（A类）
+
+* Project
+    * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS308-Project)
