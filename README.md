@@ -62,7 +62,8 @@
 <a name="cs145"></a>
 ### CS145 - 计算机系统结构实验
 
-* [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
+* Lab
+    * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
 
 <a name="cs149"></a>
 ### CS149 + CS158 + CS358 - 数据结构 + 数据结构 (荣誉) + 数据结构A
@@ -162,12 +163,14 @@
 <a name="cs383"></a>
 ### CS383 - 程序设计语言 (A类)
 
-* [@wzh99, 2020 Spring](https://github.com/wzh99/SimPL)
+* Project
+    * [@wzh99, 2020 Spring](https://github.com/wzh99/SimPL)
 
 <a name="cs386"></a>
 ### CS386 - 数字图像处理
 
-* [@wzh99, 2019 Fall](https://github.com/wzh99/RealGes)
+* Project
+    * [@wzh99, 2019 Fall](https://github.com/wzh99/RealGes)
 
 <a name="cs473"></a>
 ### CS473 - GPU计算及深度学习
@@ -192,7 +195,8 @@
 <a name="se353"></a>
 ### SE353 - 程序分析与验证
 
-* [@wzh99, 2020 Spring](https://github.com/wzh99/VarCheck)
+* Project
+    * [@wzh99, 2020 Spring](https://github.com/wzh99/VarCheck)
 
 <a name="ms125"></a>
 ### MS125 - 编程综合实践
