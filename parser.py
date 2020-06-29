@@ -52,6 +52,35 @@ def parse_info(line):
     return True, (author, year, semester)
 
 
+def parse_toc(line):
+    x = re.search(r"\[(.*?): (.*?)\]\(#(.*?)\)", line)
+    if not x:
+        return False, f"failed to parse: no [ID, course name](#anchor) found"
+    course_id, course_name, anchor = x.group(1), x.group(2), x.group(3)
+    real_course_id = course_id.split(", ")[0]
+    if real_course_id.lower() != anchor.lower():
+        return False, f"failed to parse: unmatched course id and anchor"
+    if course_id != course_id.upper():
+        return False, f"failed to parse: please use upper case in course ID"
+    if anchor != anchor.lower():
+        return False, f"failed to parse: please use lower case in URL anchor"
+    return True, (real_course_id, course_name)
+
+
+def in_toc_sequence(a, b):
+    success_a, result_a = parse_toc(a)
+    success_b, result_b = parse_toc(b)
+    if not success_a:
+        return False, f"previous line is broken"
+    if not success_b:
+        return False, result_b
+    course_id_a, _ = result_a
+    course_id_b, _ = result_b
+    if course_id_a > course_id_b:
+        return False, f"course ID not in sequence"
+    return True, None
+
+
 def in_sequence(a, b):
     seq = []
     chunk = [a, b]
@@ -71,7 +100,17 @@ def in_sequence(a, b):
     return True, None
 
 
+def parse_anchor(line):
+    x = re.search(r"name=\"(.*?)\"", line)
+    if x:
+        return x.group(1)
+    else:
+        return None
+
+
 def fail(text):
+    global parse_success
+    parse_success = False
     return ' ❌ \033[31;1m' + text + '\033[0m'
 
 
@@ -100,6 +139,10 @@ class MdRenderer(BaseRenderer):
         self.lst_list_level = 0
         self.lst_list_item = ""
         self.check_begin = False
+        self.content_check = False
+        self.first_toc = True
+        self.toc = []
+        self.last_html = ""
 
     def text(self, text):
         # TODO: escaping is probably more agressive than it needs to be.
@@ -133,6 +176,7 @@ class MdRenderer(BaseRenderer):
         return '  \n'
 
     def inline_html(self, html):
+        self.last_html += html
         return html
 
     def paragraph(self, text):
@@ -140,12 +184,46 @@ class MdRenderer(BaseRenderer):
 
     def heading(self, text, level):
         append_text = ""
+        prepend_text = ""
         if level == 3:
             result = re.match("(.*) - (.*)", text)
             if result:
+                anchor = parse_anchor(self.last_html)
+                self.last_html = ""
+                course_id = result.group(1).split(" + ")[0]
+                if not anchor:
+                    prepend_text = fail(f"no anchor found") + "\n"
+                elif anchor.lower() != course_id.lower():
+                    prepend_text = fail(f"anchor not match: {anchor}") + "\n"
+                if self.toc:
+                    result = [(i, toc) for i, toc in enumerate(
+                        self.toc) if toc[0] == course_id]
+                    if not result:
+                        append_text = fail("item not in TOC")
+                    else:
+                        i, toc = result[0]
+                        if i != 0:
+                            prepend_text += fail(
+                                f"missing item: {self.toc[:i]}") + "\n"
+                            append_text = ok("")
+                            self.toc = self.toc[i+1:]
+                        else:
+                            append_text = ok("")
+                            self.toc = self.toc[i+1:]
+                else:
+                    append_text = fail("item not in TOC")
                 self.check_begin = True
+                self.lst_list_item = ""
+                self.lst_list_level = 0
+            else:
+                self.check_begin = False
+            if text == "目录":
+                append_text = ok("table of contents")
+                self.content_check = True
+            else:
+                self.content_check = False
 
-        return f'{"#"*level} {text}{append_text}\n\n'
+        return f'{prepend_text}{"#"*level} {text}{append_text}\n\n'
 
     def newline(self):
         return '\n'
@@ -197,7 +275,6 @@ class MdRenderer(BaseRenderer):
             success, result = parse_info(firstline)
             if not success and not '\n' in text:
                 sequence_check_text = fail(result)
-                parse_success = False
             else:
                 if level == self.lst_list_level:
                     sequence_check_text = ok("")
@@ -205,11 +282,25 @@ class MdRenderer(BaseRenderer):
                         self.lst_list_item, firstline)
                     if not success:
                         sequence_check_text = fail(result)
-                        parse_success = False
                 else:
                     sequence_check_text = ok("")
             self.lst_list_level = level
             self.lst_list_item = firstline
+
+        if self.content_check:
+            success, result = parse_toc(firstline)
+            if not success:
+                sequence_check_text = fail(result)
+            else:
+                self.toc.append(result)
+                sequence_check_text = ok("")
+                if not self.first_toc:
+                    success, result = in_toc_sequence(
+                        self.lst_list_item, firstline)
+                    if not success:
+                        sequence_check_text = fail(result)
+                self.lst_list_item = firstline
+                self.first_toc = False
 
         x = text.split("\n")
         x[0] += sequence_check_text
@@ -217,7 +308,8 @@ class MdRenderer(BaseRenderer):
         return f'\n*    {x}'
 
 
-md2md = create_markdown(escape=False, renderer=MdRenderer())
+renderer = MdRenderer()
+md2md = create_markdown(escape=False, renderer=renderer)
 
 
 if __name__ == '__main__':
@@ -225,6 +317,8 @@ if __name__ == '__main__':
     with open(sys.argv[1]) as f:
         src = f.read()
         print(md2md(src))
+        if renderer.toc:
+            print(fail(f"missing items: {renderer.toc}"))
         if not parse_success:
             raise Error(fail("check failed, please refer to the above log"))
         else:
