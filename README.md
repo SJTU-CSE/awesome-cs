@@ -58,7 +58,7 @@
 ### CS145 - 计算机系统结构实验
 
 <a name="cs149"></a>
-### CS149 + CS158 + CS358 - 数据结构 + 数据结构 (荣誉) + 数据结构 (A类)
+### CS149 + CS158 + CS358 - 数据结构 + 数据结构 (荣誉) + 数据结构A
 
 * SJTU-OJ
     * [@Neight99, 2018 Fall](https://github.com/Neight99/SJTU_DataStructure_A)
