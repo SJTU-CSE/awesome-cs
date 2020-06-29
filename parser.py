@@ -144,6 +144,8 @@ class MdRenderer(BaseRenderer):
             result = re.match("(.*) - (.*)", text)
             if result:
                 self.check_begin = True
+                self.lst_list_item = ""
+                self.lst_list_level = 0
 
         return f'{"#"*level} {text}{append_text}\n\n'
 
