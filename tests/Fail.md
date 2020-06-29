@@ -1,6 +1,20 @@
 # failure-cs
 
-### CS233 - 失败学导论
+### 目录
+
+* [CS200: 失败学课程设计](#cs000) should fail
+* [CS200: 失败学课程设计](#cs200) should pass
+* [CS201, CS202, CS203: 失败学导论](#cs201) should pass
+* [CS233: 失败学导论](#cs233) should pass
+* [CS200](#cs233) should fail
+* [CS234: 失败学综合实践](#cs234) should pass
+* [CS200: 失败学课程设计](#cs200) should fail
+* [cs200: 失败学课程设计](#cs200) should fail
+* [CS200: 失败学课程设计](#CS200) should fail
+* [CS235: 失败学毕业设计](#cs235) should pass
+
+<a name="cs233"></a>
+### CS233 + CS235 - 失败学导论 should pass
 
 * 如何做一个失败者
     * [@skyzh, 2332 Spring](https://github.com/SJTU-CSE/awesome-cs) should pass
@@ -22,6 +36,13 @@
 * 如何做六个失败者
     * [#233](https://github.com/SJTU-CSE/awesome-cs/pulls/33) should pass
 
-### CS234 - 失败学综合实践
+<a name="cs235"></a>
+### CS234 - 失败学综合实践 should fail
+
+* [@skyzh, 2330 Summer](https://github.com/SJTU-CSE/awesome-cs/pulls/33) should pass
+* [@skyzh, 2329 Summer](https://github.com/SJTU-CSE/awesome-cs/pulls/33) should fail
+* [@skyzh, 2330 Summer](https://github.com/SJTU-CSE/awesome-cs/pulls/33) should pass
+
+### CS234 - 失败学课程设计 should fail
 
 * [@skyzh, 2330 Summer](https://github.com/SJTU-CSE/awesome-cs/pulls/33) should pass
