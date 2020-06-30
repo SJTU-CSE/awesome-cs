@@ -42,11 +42,16 @@
 * [CS241: 问题求解与实践](#cs241)
 * [CS307: 操作系统](#cs307)
 * [CS308: 编译原理](#cs308)
+* [CS337: 计算机图形学](#cs337)
 * [CS356: 操作系统课程设计](#cs356)
 * [CS359: 计算机系统结构](#cs359)
+* [CS383: 程序设计语言](#cs383)
+* [CS386: 数字图像处理](#cs386)
+* [CS473: GPU计算及深度学习](#cs473)
 * [CS499: 计算机科学中的数学基础](#cs499)
 * [EI209: 计算机组成](#ei209)
 * [MS125: 编程综合实践](#ms125)
+* [SE353: 程序分析与验证](#se353)
 
 <a name="cs125"></a>
 ### CS125 - 程序设计
@@ -56,6 +61,9 @@
 
 <a name="cs145"></a>
 ### CS145 - 计算机系统结构实验
+
+* Lab
+    * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
 
 <a name="cs149"></a>
 ### CS149 + CS158 + CS358 - 数据结构 + 数据结构 (荣誉) + 数据结构A
@@ -117,15 +125,25 @@
 * Project
     * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS308-Project)
 
+<a name="cs337"></a>
+### CS337 - 计算机图形学
+
+* CG Lab
+    * [@wzh99, 2019 Fall](https://github.com/wzh99/KartGame)
+* Project
+    * [@wzh99, 2019 Fall](https://github.com/wzh99/OptICP)
+
 <a name="cs356"></a>
 ### CS356 - 操作系统课程设计
 
 * 英文班
     * Project 1
+        * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
         * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject1)
         * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj1-AnroidProcessTree)
         * [@skyzh, 2020 Spring](https://github.com/iskyzh/pstree_android)
     * Project 2
+        * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
         * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject2)
         * [@ClearloveWei, 2020 Spring](https://github.com/ClearloveWei/CS356)
         * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj2-OOMKiller)
@@ -141,6 +159,24 @@
 * 笔记
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
+
+<a name="cs383"></a>
+### CS383 - 程序设计语言 (A类)
+
+* Project
+    * [@wzh99, 2020 Spring](https://github.com/wzh99/SimPL)
+
+<a name="cs386"></a>
+### CS386 - 数字图像处理
+
+* Project
+    * [@wzh99, 2019 Fall](https://github.com/wzh99/RealGes)
+
+<a name="cs473"></a>
+### CS473 - GPU计算及深度学习
+
+* Project
+    * [@wzh99, 2020 Spring](https://github.com/wzh99/DCP-TF)
 
 <a name="cs499"></a>
 ### CS499 - 计算机科学中的数学基础
@@ -170,3 +206,9 @@
 * Chatroom
     * [@Galaxies99, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-server) (Server)
     * [@Galaxies99, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-client) (Client)
+
+<a name="se353"></a>
+### SE353 - 程序分析与验证
+
+* Project
+    * [@wzh99, 2020 Spring](https://github.com/wzh99/VarCheck)
