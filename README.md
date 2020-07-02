@@ -147,24 +147,26 @@
 
 * 英文班
     * Project 1
+        * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
         * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
         * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject1)
         * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj1-AnroidProcessTree)
         * [@skyzh, 2020 Spring](https://github.com/iskyzh/pstree_android)
-        * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
     * Project 2
         * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
+        * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
         * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject2)
         * [@ClearloveWei, 2020 Spring](https://github.com/ClearloveWei/CS356)
         * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj2-OOMKiller)
         * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)
-    * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
+        * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
 * 中文班
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/SJTU-CS356-CS307-OSProj)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS307-Projects)
     * [@HaotianXue, 2020 Spring](https://github.com/xavihart/OS-Lab)
 
 <a name="cs359"></a>
+
 ### CS359 - 计算机系统结构 (A类)
 
 * 笔记
@@ -194,9 +196,9 @@
 ### CS499 - 计算机科学中的数学基础
 
 * 笔记
+    * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Hand-Written-Notes-of-SJTU-CS499-Mathematical-Foundation-of-ComputerScience)  Dominik Scheder 英文班
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
-    * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Hand-Written-Notes-of-SJTU-CS499-Mathematical-Foundation-of-ComputerScience)  (ipad手写笔记) 英文班, Dominik Scheder
 
 <a name="ei209"></a>
 
