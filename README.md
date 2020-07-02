@@ -43,11 +43,11 @@
 * [CS307: 操作系统](#cs307)
 * [CS308: 编译原理](#cs308)
 * [CS337: 计算机图形学](#cs337)
+* [CS339: 计算机网络](#cs339)
 * [CS356: 操作系统课程设计](#cs356)
 * [CS359: 计算机系统结构](#cs359)
 * [CS383: 程序设计语言](#cs383)
 * [CS386: 数字图像处理](#cs386)
-* [CS339: 计算机网络](#cs399)
 * [CS473: GPU计算及深度学习](#cs473)
 * [CS499: 计算机科学中的数学基础](#cs499)
 * [EI209: 计算机组成](#ei209)
@@ -136,6 +136,12 @@
 * Project
     * [@wzh99, 2019 Fall](https://github.com/wzh99/OptICP)
 
+<a name="#cs339"></a>
+### CS339 - 计算机网络
+
+* Project
+    * [@Youngzt998, 2019 Fall](https://github.com/Youngzt998/Naive-Airdrop)
+
 <a name="cs356"></a>
 ### CS356 - 操作系统课程设计
 
@@ -175,12 +181,6 @@
 
 * Project
     * [@wzh99, 2019 Fall](https://github.com/wzh99/RealGes)
-
-<a name="#cs399"></a>
-### CS339 - 计算机网络
-
-* Project
-    * [@Youngzt998, 2019 Fall](https://github.com/Youngzt998/Naive-Airdrop)
 
 <a name="cs473"></a>
 ### CS473 - GPU计算及深度学习
