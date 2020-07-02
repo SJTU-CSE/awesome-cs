@@ -43,6 +43,7 @@
 * [CS307: 操作系统](#cs307)
 * [CS308: 编译原理](#cs308)
 * [CS337: 计算机图形学](#cs337)
+* [CS339: 计算机网络](#cs339)
 * [CS356: 操作系统课程设计](#cs356)
 * [CS359: 计算机系统结构](#cs359)
 * [CS383: 程序设计语言](#cs383)
@@ -74,6 +75,7 @@
     * [@SJTU-OJ, 2020 Spring](https://github.com/SJTU-OJ/SJTU-OJ.github.io)
 * Deque
     * [@Neight99, 2018 Fall](https://github.com/Neight99/SJTU_DataStructure_A/tree/master/DS_STL)
+    * [@Youngzt998, 2018 Fall](https://github.com/Youngzt998/Re-implementation-of-deque-and-map)
     * [@Galaxies99, 2019 Spring](https://github.com/Galaxies99/CS158-Project-Deque)
     * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-deque)
     * [@skyzh, 2019 Spring](https://github.com/skyzh/data-structure-deque)
@@ -83,6 +85,7 @@
     * [@skyzh, 2019 Spring](https://github.com/skyzh/BPlusTree)
 * Map
     * [@Neight99, 2018 Fall](https://github.com/Neight99/SJTU_DataStructure_A/tree/master/DS_STL)
+    * [@Youngzt998, 2018 Fall](https://github.com/Youngzt998/Re-implementation-of-deque-and-map)
 * 笔记
     * [@Galaxies99, 2019 Spring](https://github.com/Galaxies99/SJTU-course-notes) 数据结构（荣誉）
 * 小作业
@@ -133,6 +136,12 @@
 * Project
     * [@wzh99, 2019 Fall](https://github.com/wzh99/OptICP)
 
+<a name="cs339"></a>
+### CS339 - 计算机网络
+
+* Project
+    * [@Youngzt998, 2019 Fall](https://github.com/Youngzt998/Naive-Airdrop)
+
 <a name="cs356"></a>
 ### CS356 - 操作系统课程设计
 
@@ -165,6 +174,7 @@
 
 * Project
     * [@wzh99, 2020 Spring](https://github.com/wzh99/SimPL)
+    * [@Youngzt998, 2020 Spring](https://github.com/Youngzt998/SimPL-Interpreter)
 
 <a name="cs386"></a>
 ### CS386 - 数字图像处理
