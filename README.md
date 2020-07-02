@@ -148,12 +148,14 @@
 * 英文班
     * Project 1
         * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
+        * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
         * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject1)
         * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj1-AnroidProcessTree)
         * [@skyzh, 2020 Spring](https://github.com/iskyzh/pstree_android)
     * Project 2
         * [@Vic0428, 2019 Spring](https://github.com/Vic0428/Android-Memory-Management)
         * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
+        * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
         * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject2)
         * [@ClearloveWei, 2020 Spring](https://github.com/ClearloveWei/CS356)
         * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj2-OOMKiller)
@@ -164,6 +166,7 @@
     * [@HaotianXue, 2020 Spring](https://github.com/xavihart/OS-Lab)
 
 <a name="cs359"></a>
+
 ### CS359 - 计算机系统结构 (A类)
 
 * 笔记
@@ -193,10 +196,12 @@
 ### CS499 - 计算机科学中的数学基础
 
 * 笔记
+    * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Hand-Written-Notes-of-SJTU-CS499-Mathematical-Foundation-of-ComputerScience)  Dominik Scheder 英文班
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
 
 <a name="ei209"></a>
+
 ### EI209 - 计算机组成
 
 * 笔记
