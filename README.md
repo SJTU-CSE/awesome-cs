@@ -152,6 +152,7 @@
         * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj1-AnroidProcessTree)
         * [@skyzh, 2020 Spring](https://github.com/iskyzh/pstree_android)
     * Project 2
+        * [@Vic0428, 2019 Spring](https://github.com/Vic0428/Android-Memory-Management)
         * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
         * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject2)
         * [@ClearloveWei, 2020 Spring](https://github.com/ClearloveWei/CS356)
