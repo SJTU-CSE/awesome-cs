@@ -147,8 +147,8 @@
 
 * 英文班
     * Project 1
-        * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
         * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
+        * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
         * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject1)
         * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj1-AnroidProcessTree)
         * [@skyzh, 2020 Spring](https://github.com/iskyzh/pstree_android)
@@ -159,7 +159,6 @@
         * [@ClearloveWei, 2020 Spring](https://github.com/ClearloveWei/CS356)
         * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj2-OOMKiller)
         * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)
-        * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
 * 中文班
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/SJTU-CS356-CS307-OSProj)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS307-Projects)
