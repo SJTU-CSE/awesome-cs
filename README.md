@@ -136,7 +136,7 @@
 * Project
     * [@wzh99, 2019 Fall](https://github.com/wzh99/OptICP)
 
-<a name="#cs339"></a>
+<a name="cs339"></a>
 ### CS339 - 计算机网络
 
 * Project
