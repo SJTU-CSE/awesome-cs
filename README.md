@@ -63,8 +63,14 @@
 <a name="cs145"></a>
 ### CS145 - 计算机系统结构实验
 
-* Lab
+* Lab 1-4
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
+* Lab 5
+    * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
+    * [@skyzh, 2020 Spring](https://github.com/skyzh/mips-cpu/tree/single-cycle)
+* Lab 6
+    * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
+    * [@skyzh, 2020 Spring](https://github.com/skyzh/mips-cpu)
 
 <a name="cs149"></a>
 ### CS149 + CS158 + CS358 - 数据结构 + 数据结构 (荣誉) + 数据结构A
