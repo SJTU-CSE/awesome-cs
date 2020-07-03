@@ -9,19 +9,19 @@
 
 本项目旨在收集 GitHub 上海交通大学计算机系本科（编程）作业。
 
-如果您希望将自己的项目添加到列表中，请通过 [Pull Request](https://github.com/SJTU-CSE/awesome-cs/pulls) 提交。
+如果您希望将自己的项目添加到列表中，请点击 [README.md 右上角的编辑按钮](https://github.com/SJTU-CSE/awesome-cs/edit/master/README.md) 在自己的分支中编辑，而后通过 [Pull Request](https://github.com/SJTU-CSE/awesome-cs/pulls) 提交。
 
-您的项目应该符合下面的格式：
+您的项目应该以下面的格式添加到列表中：
 ```
 * [@user, 年份 学期](URL) 其他信息
 ```
 
 您的项目应该根据下面的顺序插入到合适的位置。
 
-1. 学期 (2019 Spring < 2019 Fall < 2020 Spring)
-2. ID (A < b < C)
+1. 学年、学期 (2019 Spring < 2019 Fall < 2020 Spring)
+2. 作者 ID (A < b < C)
 
-我们的脚本会自动检查您添加的位置是否正确。感谢您的贡献。
+在发送 PR 后，我们的脚本会自动检查您的修改。感谢您的贡献。
 
 ## 学术诚信
 
