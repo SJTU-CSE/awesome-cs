@@ -153,12 +153,14 @@
 
 * 英文班
     * Project 1
+        * [@nexuslrf, 2018 Spring](https://github.com/nexuslrf/Android_kernel_programming)
         * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
         * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
         * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject1)
         * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj1-AnroidProcessTree)
         * [@skyzh, 2020 Spring](https://github.com/iskyzh/pstree_android)
     * Project 2
+        * [@nexuslrf, 2018 Spring](https://github.com/nexuslrf/Android_kernel_programming)
         * [@Vic0428, 2019 Spring](https://github.com/Vic0428/Android-Memory-Management)
         * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
         * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
