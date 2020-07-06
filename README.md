@@ -67,9 +67,11 @@
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
 * Lab 5
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
+    * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/MIPS/tree/master)
     * [@skyzh, 2020 Spring](https://github.com/skyzh/mips-cpu/tree/single-cycle)
 * Lab 6
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
+    * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/MIPS/tree/pipe)
     * [@skyzh, 2020 Spring](https://github.com/skyzh/mips-cpu)
 
 <a name="cs149"></a>
