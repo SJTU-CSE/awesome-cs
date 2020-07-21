@@ -188,6 +188,8 @@
 * 笔记
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
+* Project 2: Understanding Cache Memories
+    * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS359-project2) 英文班
 
 <a name="cs383"></a>
 ### CS383 - 程序设计语言 (A类)
