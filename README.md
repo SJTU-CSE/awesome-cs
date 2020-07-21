@@ -65,13 +65,16 @@
 
 * Lab 1-4
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
+    * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/SJTU-CS145)
 * Lab 5
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
     * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/MIPS/tree/master)
+    * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/SJTU-CS145)
     * [@skyzh, 2020 Spring](https://github.com/skyzh/mips-cpu/tree/single-cycle)
 * Lab 6
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
     * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/MIPS/tree/pipe)
+    * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/SJTU-CS145)
     * [@skyzh, 2020 Spring](https://github.com/skyzh/mips-cpu)
 
 <a name="cs149"></a>
@@ -160,6 +163,7 @@
         * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
         * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
         * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject1)
+        * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS356-Project1)
         * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj1-AnroidProcessTree)
         * [@skyzh, 2020 Spring](https://github.com/iskyzh/pstree_android)
     * Project 2
@@ -169,9 +173,9 @@
         * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
         * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject2)
         * [@ClearloveWei, 2020 Spring](https://github.com/ClearloveWei/CS356)
-        * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj2-OOMKiller)
-        * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)
         * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS356-Project2)
+        * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj2-OOMKiller)
+        * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)  
 * 中文班
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/SJTU-CS356-CS307-OSProj)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS307-Projects)
