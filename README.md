@@ -65,15 +65,18 @@
 
 * Lab 1-4
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
+    * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/SJTU-CS145)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS145-ArchLabs)
 * Lab 5
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
     * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/MIPS/tree/master)
+    * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/SJTU-CS145)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS145-ArchLabs)
     * [@skyzh, 2020 Spring](https://github.com/skyzh/mips-cpu/tree/single-cycle)
 * Lab 6
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
     * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/MIPS/tree/pipe)
+    * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/SJTU-CS145)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS145-ArchLabs)
     * [@skyzh, 2020 Spring](https://github.com/skyzh/mips-cpu)
 
@@ -163,6 +166,7 @@
         * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
         * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
         * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject1)
+        * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS356-Project1)
         * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj1-AnroidProcessTree)
         * [@skyzh, 2020 Spring](https://github.com/iskyzh/pstree_android)
     * Project 2
@@ -172,6 +176,7 @@
         * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
         * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject2)
         * [@ClearloveWei, 2020 Spring](https://github.com/ClearloveWei/CS356)
+        * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS356-Project2)
         * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj2-OOMKiller)
         * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)
 * 中文班
@@ -186,6 +191,8 @@
 * 笔记
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
+* Project 2: Understanding Cache Memories （英文班)
+    * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS359-project2)
 
 <a name="cs383"></a>
 ### CS383 - 程序设计语言 (A类)
