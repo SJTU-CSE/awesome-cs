@@ -191,6 +191,8 @@
 * 笔记
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
+* Project 1: Optimizing the Performance of a Pipelined Processor （英文班)
+    * [@zztoy, 2020 Spring](https://github.com/zztoy/ComputerArch-Prj1)
 * Project 2: Understanding Cache Memories （英文班)
     * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS359-project2)
 
