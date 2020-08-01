@@ -233,7 +233,7 @@
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 中文班
 
 <a name="ms125"></a>
-### MS125 - 编程综合实践
+### MS125 - 编程综合实践 (荣誉)
 
 * RISC-V Simulator
     * [@Galaxies99, 2019 Summer](https://github.com/Galaxies99/MS125-RISCV-simulator)
