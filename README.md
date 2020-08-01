@@ -238,6 +238,7 @@
 * RISC-V Simulator
     * [@Galaxies99, 2019 Summer](https://github.com/Galaxies99/MS125-RISCV-simulator)
     * [@skyzh, 2019 Summer](https://github.com/skyzh/RISCV-Simulator)
+    * [@Victrid, 2020 Summer](https://github.com/Victrid/RISC-V-simulator)
 * Raft
     * [@skyzh, 2019 Summer](https://github.com/iskyzh/raft)
 * DHT
@@ -245,6 +246,8 @@
 * Chatroom
     * [@Galaxies99, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-server) (Server)
     * [@Galaxies99, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-client) (Client)
+* BASIC Compiler
+    * [@Victrid, 2020 Summer](https://github.com/Victrid/BASIC-RISC-V-compiler)
 
 <a name="se353"></a>
 ### SE353 - 程序分析与验证
