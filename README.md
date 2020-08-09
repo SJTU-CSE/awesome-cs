@@ -181,7 +181,7 @@
         * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)
 * 中文班
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/SJTU-CS356-CS307-OSProj)
-    * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS307-Projects)
+    * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS356-Projects)
     * [@HaotianXue, 2020 Spring](https://github.com/xavihart/OS-Lab)
 
 <a name="cs359"></a>
