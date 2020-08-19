@@ -124,6 +124,7 @@
     * [@BugenZhao, 2019 Fall](https://github.com/BugenZhao/MTAnalyzer)
     * [@HaotianXue, 2019 Fall](https://github.com/xavihart/CS241_QtProj)
     * [@MinoZhao, 2019 Fall](https://github.com/doctormin/Hangzhou-Metro-Data-Visualizer)
+    * [@PsyduckLiu, 2019 Fall](https://github.com/PsyduckLiu/CS241--Problem_solving_and_practice)
     * [@skyzh, 2019 Fall](https://github.com/skyzh/Meteor)
 * 中文班
     * [@Galaxies99, 2019 Fall](https://github.com/Galaxies99/CS241-CourseData)
@@ -183,7 +184,8 @@
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/SJTU-CS356-CS307-OSProj)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS356-Projects)
     * [@HaotianXue, 2020 Spring](https://github.com/xavihart/OS-Lab)
-
+    * [@PsyduckLiu, 2020 Spring](https://github.com/PsyduckLiu/CS307-Operating-System)
+    
 <a name="cs359"></a>
 
 ### CS359 - 计算机系统结构 (A类)
