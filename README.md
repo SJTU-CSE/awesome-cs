@@ -126,7 +126,6 @@
     * [@MinoZhao, 2019 Fall](https://github.com/doctormin/Hangzhou-Metro-Data-Visualizer)
     * [@PsyduckLiu, 2019 Fall](https://github.com/PsyduckLiu/CS241--Problem_solving_and_practice)
     * [@skyzh, 2019 Fall](https://github.com/skyzh/Meteor)
-    * [@davidwang200099, 2020 Fall](https://github.com/davidwang200099/CS241-finalproject)
 * 中文班
     * [@Galaxies99, 2019 Fall](https://github.com/Galaxies99/CS241-CourseData)
 
