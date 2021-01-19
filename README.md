@@ -48,10 +48,13 @@
 * [CS359: 计算机系统结构](#cs359)
 * [CS383: 程序设计语言](#cs383)
 * [CS386: 数字图像处理](#cs386)
+* [CS467: 计算理论](#cs467)
 * [CS473: GPU计算及深度学习](#cs473)
 * [CS499: 计算机科学中的数学基础](#cs499)
 * [EI209: 计算机组成](#ei209)
+* [IS307: 密码学与信息安全基础](#is307)
 * [MS125: 编程综合实践](#ms125)
+* [SE305: 数据库技术](#se305)
 * [SE353: 程序分析与验证](#se353)
 
 <a name="cs125"></a>
@@ -209,8 +212,17 @@
 <a name="cs386"></a>
 ### CS386 - 数字图像处理
 
+* 笔记
+    * [@Galaxies99, 2020 Fall](https://github.com/Galaxies99/SJTU-course-notes)
 * Project
     * [@wzh99, 2019 Fall](https://github.com/wzh99/RealGes)
+    * [@Galaxies99, 2020 Fall](https://github.com/Galaxies99/HDRLib)
+
+<a name="cs467"></a>
+### CS467 - 计算理论
+
+* 笔记
+    * [@Galaxies99, 2020 Fall](https://github.com/Galaxies99/SJTU-course-notes)
 
 <a name="cs473"></a>
 ### CS473 - GPU计算及深度学习
@@ -235,6 +247,12 @@
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 中文班
 
+<a name="is307"></a>
+### IS307 - 密码学与信息安全基础
+
+* 笔记
+    * [@Galaxies99, 2020 Fall](https://github.com/Galaxies99/SJTU-course-notes)
+
 <a name="ms125"></a>
 ### MS125 - 编程综合实践 (荣誉)
 
@@ -251,6 +269,12 @@
     * [@Galaxies99, 2019 Summer](https://github.com/Galaxies99/MS125-chatroom-client) (Client)
 * BASIC Compiler
     * [@Victrid, 2020 Summer](https://github.com/Victrid/BASIC-RISC-V-compiler)
+
+<a name="se305"></a>
+### SE305 - 数据库技术
+
+* 笔记
+    * [@Galaxies99, 2020 Fall](https://github.com/Galaxies99/SJTU-course-notes)
 
 <a name="se353"></a>
 ### SE353 - 程序分析与验证
