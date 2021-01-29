@@ -159,6 +159,9 @@
 <a name="cs339"></a>
 ### CS339 - 计算机网络
 
+
+* 笔记
+    * [@PeiyuChen1005, 2020 Fall](https://github.com/PeiyuChen1005/SJTU-CSE-notes) 中文班
 * Project
     * [@Youngzt998, 2019 Fall](https://github.com/Youngzt998/Naive-Airdrop)
 
