@@ -39,6 +39,7 @@
 * [CS145: 计算机系统结构实验](#cs145)
 * [CS149, CS158, CS358: 数据结构](#cs149)
 * [CS214: 算法与复杂性](#cs214)
+* [CS236: 云计算技术](#cs236)
 * [CS241: 问题求解与实践](#cs241)
 * [CS307: 操作系统](#cs307)
 * [CS308: 编译原理](#cs308)
@@ -48,6 +49,7 @@
 * [CS359: 计算机系统结构](#cs359)
 * [CS383: 程序设计语言](#cs383)
 * [CS386: 数字图像处理](#cs386)
+* [CS410: 机器学习](#cs410)
 * [CS467: 计算理论](#cs467)
 * [CS473: GPU计算及深度学习](#cs473)
 * [CS499: 计算机科学中的数学基础](#cs499)
@@ -119,6 +121,12 @@
 * 笔记
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
+
+<a name="cs236"></a>
+### CS236 - 云计算技术
+
+* Project
+    * [@skyzh, 2020 Fall](https://github.com/iskyzh/hadoop-spark-job)
 
 <a name="cs241"></a>
 ### CS241 - 问题求解与实践
@@ -220,6 +228,13 @@
 * Project
     * [@wzh99, 2019 Fall](https://github.com/wzh99/RealGes)
     * [@Galaxies99, 2020 Fall](https://github.com/Galaxies99/HDRLib)
+
+<a name="cs410"></a>
+### CS410 - 机器学习
+
+* Project
+    * [@skyzh, 2020 Fall](https://github.com/iskyzh/ml-gcn)
+
 
 <a name="cs467"></a>
 ### CS467 - 计算理论
