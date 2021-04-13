@@ -172,6 +172,7 @@
     * [@PeiyuChen1005, 2020 Fall](https://github.com/PeiyuChen1005/SJTU-CSE-notes) 中文班
 * Project
     * [@Youngzt998, 2019 Fall](https://github.com/Youngzt998/Naive-Airdrop)
+    * [@skyzh @biansy000 @BrianWU-S, 2020 Fall](https://github.com/skyzh/chaos-video)
 
 <a name="cs356"></a>
 ### CS356 - 操作系统课程设计
