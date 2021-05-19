@@ -53,6 +53,7 @@
 * [CS467: 计算理论](#cs467)
 * [CS473: GPU计算及深度学习](#cs473)
 * [CS499: 计算机科学中的数学基础](#cs499)
+* [EE458: 软件工程](#ee458)
 * [EI209: 计算机组成](#ei209)
 * [IS307: 密码学与信息安全基础](#is307)
 * [MS125: 编程综合实践](#ms125)
@@ -257,8 +258,14 @@
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
 
-<a name="ei209"></a>
+<a name="ee458"></a>
+### EE458 - 软件工程
 
+* Project
+    * [@untitled-group, 2021 Spring](https://github.com/untitled-group/kanbasu)
+
+
+<a name="ei209"></a>
 ### EI209 - 计算机组成
 
 * 笔记
