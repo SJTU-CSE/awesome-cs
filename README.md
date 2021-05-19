@@ -1,7 +1,5 @@
 # awesome-cs
 
-[![HitCount](http://hits.dwyl.com/SJTU-CSE/awesome-cs.svg)](http://hits.dwyl.com/SJTU-CSE/awesome-cs)
-
 上海交通大学计算机系本科作业参考
 
 
