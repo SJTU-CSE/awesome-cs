@@ -53,6 +53,7 @@
 * [CS467: 计算理论](#cs467)
 * [CS473: GPU计算及深度学习](#cs473)
 * [CS499: 计算机科学中的数学基础](#cs499)
+* [EE458: 软件工程](#ee458)
 * [EI209: 计算机组成](#ei209)
 * [IS307: 密码学与信息安全基础](#is307)
 * [MS125: 编程综合实践](#ms125)
@@ -259,6 +260,13 @@
 
 <a name="ei209"></a>
 
+### EE458 - 软件工程
+
+* Project
+    * [@untitled-group, 2021 Spring](https://github.com/untitled-group/kanbasu)
+
+
+<a name="ei209"></a>
 ### EI209 - 计算机组成
 
 * 笔记
