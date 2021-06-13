@@ -270,6 +270,10 @@
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 中文班
+* lab
+ * [@davids1896,2021 Spring](https://github.com/davids1896/SJTU-EI209-Lab_Computer_Organization)
+    
+
 
 <a name="is307"></a>
 ### IS307 - 密码学与信息安全基础
