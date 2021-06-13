@@ -271,7 +271,7 @@
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 中文班
 * lab
- * [@davids1896,2021 Spring](https://github.com/davids1896/SJTU-EI209-Lab_Computer_Organization)
+    * [@davids1896,2021 Spring](https://github.com/davids1896/SJTU-EI209-Lab_Computer_Organization)
     
 
 
