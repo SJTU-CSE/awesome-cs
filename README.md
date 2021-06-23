@@ -256,7 +256,7 @@
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
 * 学习资料 
-    * [@davids1896, 2021 Spring](https://github.com/davids1896/CS499) 英文班
+    * [@davids1896, 2021 Spring](https://github.com/davids1896/CS499) 中文班
 
 <a name="ee458"></a>
 ### EE458 - 软件工程
