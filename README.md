@@ -255,6 +255,8 @@
     * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Hand-Written-Notes-of-SJTU-CS499-Mathematical-Foundation-of-ComputerScience)  Dominik Scheder 英文班
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
+* 学习资料 
+    * [@davids1896, 2021 Spring](https://github.com/davids1896/CS499) 英文班
 
 <a name="ee458"></a>
 ### EE458 - 软件工程
