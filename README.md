@@ -247,6 +247,8 @@
 
 * Project
     * [@wzh99, 2020 Spring](https://github.com/wzh99/DCP-TF)
+* Homework and Project
+    * [@LittleQili, 2021 Spring](https://github.com/LittleQili/CS473)
 
 <a name="cs499"></a>
 ### CS499 - 计算机科学中的数学基础
