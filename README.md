@@ -62,7 +62,7 @@
 ### CS125 - 程序设计
 
 * OJ 作业
-   * [@david990917, 2020 Spring](https://github.com/david990917/My-Computer-Science-Learning/tree/master/CPP-Programming-Course)
+   * [@david990917, 2020 Spring](https://github.com/david990917/CPP-PROGRAMMING)
 
 <a name="cs145"></a>
 ### CS145 - 计算机系统结构实验
@@ -196,7 +196,6 @@
             * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
         * Memory Limit for Applications
             * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject2)
-            * [@ClearloveWei, 2020 Spring](https://github.com/ClearloveWei/CS356)
             * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS356-Project2)
             * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj2-OOMKiller)
             * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)
