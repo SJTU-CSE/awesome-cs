@@ -10,5 +10,5 @@ jobs:
     - name: Check URL
       id: check_url
       run: |
-        git show HEAD:README.md | grep -Eo '(http|https)://[^)"]+' | sort | uniq > .patch || true
+        git diff origin/master:README.md HEAD:README.md | grep -E "^\+" | grep -Eo '(http|https)://[^)"]+' | sort | uniq > .patch || true
         ./url_check.sh < .patch
