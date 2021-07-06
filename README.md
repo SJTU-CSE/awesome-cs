@@ -62,7 +62,7 @@
 ### CS125 - 程序设计
 
 * OJ 作业
-   * [@david990917, 2020 Spring](https://github.com/david990917/My-Computer-Science-Learning/tree/master/CPP-Programming-Course)
+   * [@david990917, 2020 Spring](https://github.com/david990917/CPP-PROGRAMMING)
 
 <a name="cs145"></a>
 ### CS145 - 计算机系统结构实验
@@ -185,16 +185,20 @@
         * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS356-Project1)
         * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj1-AnroidProcessTree)
         * [@skyzh, 2020 Spring](https://github.com/iskyzh/pstree_android)
+        * [@Victrid, 2021 Spring](https://github.com/Victrid/CS356-project-1)
     * Project 2
-        * [@nexuslrf, 2018 Spring](https://github.com/nexuslrf/Android_kernel_programming)
-        * [@Vic0428, 2019 Spring](https://github.com/Vic0428/Android-Memory-Management)
-        * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
-        * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
-        * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject2)
-        * [@ClearloveWei, 2020 Spring](https://github.com/ClearloveWei/CS356)
-        * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS356-Project2)
-        * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj2-OOMKiller)
-        * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)
+        * Android Scheduler
+            * [@nexuslrf, 2018 Spring](https://github.com/nexuslrf/Android_kernel_programming)
+            * [@Victrid, 2021 Spring](https://github.com/Victrid/CS356-project-2)
+        * Android Memory Management
+            * [@Vic0428, 2019 Spring](https://github.com/Vic0428/Android-Memory-Management)
+            * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
+            * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
+        * Memory Limit for Applications
+            * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject2)
+            * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS356-Project2)
+            * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj2-OOMKiller)
+            * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)
 * 中文班
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/SJTU-CS356-CS307-OSProj)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS356-Projects)
