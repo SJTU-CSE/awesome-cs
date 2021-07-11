@@ -47,7 +47,7 @@
 * [CS359: 计算机系统结构](#cs359)
 * [CS383: 程序设计语言](#cs383)
 * [CS386: 数字图像处理](#cs386)
-* [CS410: 机器学习](#cs410)
+* [CS410: 人工智能](#cs410)
 * [CS467: 计算理论](#cs467)
 * [CS473: GPU计算及深度学习](#cs473)
 * [CS499: 计算机科学中的数学基础](#cs499)
@@ -239,7 +239,7 @@
     * [@Galaxies99, 2020 Fall](https://github.com/Galaxies99/HDRLib)
 
 <a name="cs410"></a>
-### CS410 - 机器学习
+### CS410 - 人工智能
 
 * Project
     * [@skyzh, 2020 Fall](https://github.com/iskyzh/ml-gcn)
