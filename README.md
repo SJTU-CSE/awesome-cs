@@ -142,6 +142,7 @@
     * [@davidwang200099, 2020 Fall](https://github.com/davidwang200099/CS241-finalproject)
 * 中文班
     * [@Galaxies99, 2019 Fall](https://github.com/Galaxies99/CS241-CourseData)
+    * [@pangbo13, 2020 Fall](https://github.com/pangbo13/Courses/tree/main/CS241%20%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3%E4%B8%8E%E5%AE%9E%E8%B7%B5)
 
 <a name="cs307"></a>
 ### CS307 - 操作系统 (D类)
@@ -217,6 +218,8 @@
 * 笔记
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
+* 课程实践（中文班）
+    * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS359%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84) 
 * Project 1: Optimizing the Performance of a Pipelined Processor （英文班)
     * [@BugenZhao @doctormin, 2020 Spring](https://github.com/zztoy/ComputerArch-Prj1)
 * Project 2: Understanding Cache Memories （英文班)
