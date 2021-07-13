@@ -140,6 +140,7 @@
     * [@PsyduckLiu, 2019 Fall](https://github.com/PsyduckLiu/CS241--Problem_solving_and_practice)
     * [@skyzh, 2019 Fall](https://github.com/skyzh/Meteor)
     * [@davidwang200099, 2020 Fall](https://github.com/davidwang200099/CS241-finalproject)
+    * [@yinwaii, 2020 Fall](https://github.com/yinwaii/Quick_Hailer)
 * 中文班
     * [@Galaxies99, 2019 Fall](https://github.com/Galaxies99/CS241-CourseData)
     * [@pangbo13, 2020 Fall](https://github.com/pangbo13/Courses/tree/main/CS241%20%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3%E4%B8%8E%E5%AE%9E%E8%B7%B5)
