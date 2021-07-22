@@ -298,7 +298,7 @@
 * Homework & Lab
     * [@Galaxies99, 2021 Spring](https://github.com/Galaxies99/EE447-CourseData)
 * Project
-    * [@Galaxies99, @Dazz993, @zhao-hr, 2021 Spring](https://github.com/Galaxies99/oh-my-papers)
+    * [@Galaxies99 @Dazz993 @zhao-hr, 2021 Spring](https://github.com/Galaxies99/oh-my-papers)
 
 <a name="ee458"></a>
 ### EE458 - 软件工程
@@ -322,7 +322,7 @@
 ### EI314 - 工程实践与科技创新III-E
 
 * Project
-    * [@Galaxies99, @Dazz993, @KoalaYan, @Rem-Yin, 2021 Spring](https://github.com/Galaxies99/alpha-protein)
+    * [@Galaxies99 @Dazz993 @KoalaYan @Rem-Yin, 2021 Spring](https://github.com/Galaxies99/alpha-protein)
 
 <a name="is307"></a>
 ### IS307 - 密码学与信息安全基础
