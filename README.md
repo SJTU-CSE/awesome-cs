@@ -46,13 +46,17 @@
 * [CS356: 操作系统课程设计](#cs356)
 * [CS359: 计算机系统结构](#cs359)
 * [CS383: 程序设计语言](#cs383)
+* [CS385: 机器学习](#cs385)
 * [CS386: 数字图像处理](#cs386)
 * [CS410: 人工智能](#cs410)
 * [CS467: 计算理论](#cs467)
 * [CS473: GPU计算及深度学习](#cs473)
 * [CS499: 计算机科学中的数学基础](#cs499)
+* [EE359: 数据挖掘技术](#ee359)
+* [EE447: 移动互联网](#ee447)
 * [EE458: 软件工程](#ee458)
 * [EI209: 计算机组成](#ei209)
+* [EI314: 工程实践与科技创新III-E](#ei314)
 * [IS307: 密码学与信息安全基础](#is307)
 * [MS125: 编程综合实践](#ms125)
 * [SE305: 数据库技术](#se305)
@@ -233,6 +237,15 @@
     * [@wzh99, 2020 Spring](https://github.com/wzh99/SimPL)
     * [@Youngzt998, 2020 Spring](https://github.com/Youngzt998/SimPL-Interpreter)
 
+<a name="cs385"></a>
+### CS385 - 机器学习
+
+* Project 1
+    * [@Galaxies99, 2021 Spring](https://github.com/Galaxies99/SVHN-playground)
+* Project 2
+    * [@Galaxies99, 2021 Spring](https://github.com/Galaxies99/VAE-pytorch) (VAE)
+    * [@Galaxies99, 2021 Spring](https://github.com/Galaxies99/GAN-pytorch) (GAN)
+
 <a name="cs386"></a>
 ### CS386 - 数字图像处理
 
@@ -273,6 +286,20 @@
 * 学习资料 
     * [@davids1896, 2021 Spring](https://github.com/davids1896/CS499) 中文班
 
+<a name="ee359"></a>
+### EE359 - 数据挖掘技术
+
+* Lab
+    * [@Galaxies99, 2021 Spring](https://github.com/Galaxies99/EE359-Labs)
+
+<a name="ee447"></a>
+### EE447 - 移动互联网
+
+* Homework & Lab
+    * [@Galaxies99, 2021 Spring](https://github.com/Galaxies99/EE447-CourseData)
+* Project
+    * [@Galaxies99, @Dazz993, @zhao-hr, 2021 Spring](https://github.com/Galaxies99/oh-my-papers)
+
 <a name="ee458"></a>
 ### EE458 - 软件工程
 
@@ -291,7 +318,11 @@
     * [@davids1896, 2021 Spring](https://github.com/davids1896/SJTU-EI209-Lab_Computer_Organization)
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/EI209%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90) 中文班
     
+<a name="ei314"></a>
+### EI314 - 工程实践与科技创新III-E
 
+* Project
+    * [@Galaxies99, @Dazz993, @KoalaYan, @Rem-Yin, 2021 Spring](https://github.com/Galaxies99/alpha-protein)
 
 <a name="is307"></a>
 ### IS307 - 密码学与信息安全基础
