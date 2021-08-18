@@ -46,13 +46,17 @@
 * [CS356: 操作系统课程设计](#cs356)
 * [CS359: 计算机系统结构](#cs359)
 * [CS383: 程序设计语言](#cs383)
+* [CS385: 机器学习](#cs385)
 * [CS386: 数字图像处理](#cs386)
-* [CS410: 机器学习](#cs410)
+* [CS410: 人工智能](#cs410)
 * [CS467: 计算理论](#cs467)
 * [CS473: GPU计算及深度学习](#cs473)
 * [CS499: 计算机科学中的数学基础](#cs499)
+* [EE359: 数据挖掘技术](#ee359)
+* [EE447: 移动互联网](#ee447)
 * [EE458: 软件工程](#ee458)
 * [EI209: 计算机组成](#ei209)
+* [EI314: 工程实践与科技创新III-E](#ei314)
 * [IS307: 密码学与信息安全基础](#is307)
 * [MS125: 编程综合实践](#ms125)
 * [SE305: 数据库技术](#se305)
@@ -62,7 +66,7 @@
 ### CS125 - 程序设计
 
 * OJ 作业
-   * [@david990917, 2020 Spring](https://github.com/david990917/My-Computer-Science-Learning/tree/master/CPP-Programming-Course)
+   * [@david990917, 2020 Spring](https://github.com/david990917/CPP-PROGRAMMING)
 
 <a name="cs145"></a>
 ### CS145 - 计算机系统结构实验
@@ -71,18 +75,21 @@
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
     * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/SJTU-CS145)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS145-ArchLabs)
+    * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS145%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
 * Lab 5
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
     * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/MIPS/tree/master)
     * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/SJTU-CS145)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS145-ArchLabs)
     * [@skyzh, 2020 Spring](https://github.com/skyzh/mips-cpu/tree/single-cycle)
+    * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS145%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
 * Lab 6
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
     * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/MIPS/tree/pipe)
     * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/SJTU-CS145)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS145-ArchLabs)
     * [@skyzh, 2020 Spring](https://github.com/skyzh/mips-cpu)
+    * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS145%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
 
 <a name="cs149"></a>
 ### CS149 + CS158 + CS358 - 数据结构 + 数据结构 (荣誉) + 数据结构A
@@ -138,8 +145,10 @@
     * [@PsyduckLiu, 2019 Fall](https://github.com/PsyduckLiu/CS241--Problem_solving_and_practice)
     * [@skyzh, 2019 Fall](https://github.com/skyzh/Meteor)
     * [@davidwang200099, 2020 Fall](https://github.com/davidwang200099/CS241-finalproject)
+    * [@yinwaii, 2020 Fall](https://github.com/yinwaii/Quick_Hailer)
 * 中文班
     * [@Galaxies99, 2019 Fall](https://github.com/Galaxies99/CS241-CourseData)
+    * [@pangbo13, 2020 Fall](https://github.com/pangbo13/Courses/tree/main/CS241%20%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3%E4%B8%8E%E5%AE%9E%E8%B7%B5)
 
 <a name="cs307"></a>
 ### CS307 - 操作系统 (D类)
@@ -186,16 +195,22 @@
         * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS356-Project1)
         * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj1-AnroidProcessTree)
         * [@skyzh, 2020 Spring](https://github.com/iskyzh/pstree_android)
+        * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS356%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/Lab01)
+        * [@Victrid, 2021 Spring](https://github.com/Victrid/CS356-project-1)
     * Project 2
-        * [@nexuslrf, 2018 Spring](https://github.com/nexuslrf/Android_kernel_programming)
-        * [@Vic0428, 2019 Spring](https://github.com/Vic0428/Android-Memory-Management)
-        * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
-        * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
-        * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject2)
-        * [@ClearloveWei, 2020 Spring](https://github.com/ClearloveWei/CS356)
-        * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS356-Project2)
-        * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj2-OOMKiller)
-        * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)
+        * Android Scheduler
+            * [@nexuslrf, 2018 Spring](https://github.com/nexuslrf/Android_kernel_programming)
+            * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS356%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/Lab02)
+            * [@Victrid, 2021 Spring](https://github.com/Victrid/CS356-project-2)
+        * Android Memory Management
+            * [@Vic0428, 2019 Spring](https://github.com/Vic0428/Android-Memory-Management)
+            * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
+            * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
+        * Memory Limit for Applications
+            * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject2)
+            * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS356-Project2)
+            * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj2-OOMKiller)
+            * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)
 * 中文班
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/SJTU-CS356-CS307-OSProj)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS356-Projects)
@@ -209,6 +224,8 @@
 * 笔记
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
+* 课程实践（中文班）
+    * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS359%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84) 
 * Project 1: Optimizing the Performance of a Pipelined Processor （英文班)
     * [@BugenZhao @doctormin, 2020 Spring](https://github.com/zztoy/ComputerArch-Prj1)
 * Project 2: Understanding Cache Memories （英文班)
@@ -221,6 +238,15 @@
     * [@wzh99, 2020 Spring](https://github.com/wzh99/SimPL)
     * [@Youngzt998, 2020 Spring](https://github.com/Youngzt998/SimPL-Interpreter)
 
+<a name="cs385"></a>
+### CS385 - 机器学习
+
+* Project 1
+    * [@Galaxies99, 2021 Spring](https://github.com/Galaxies99/SVHN-playground)
+* Project 2
+    * [@Galaxies99, 2021 Spring](https://github.com/Galaxies99/VAE-pytorch) (VAE)
+    * [@Galaxies99, 2021 Spring](https://github.com/Galaxies99/GAN-pytorch) (GAN)
+
 <a name="cs386"></a>
 ### CS386 - 数字图像处理
 
@@ -231,7 +257,7 @@
     * [@Galaxies99, 2020 Fall](https://github.com/Galaxies99/HDRLib)
 
 <a name="cs410"></a>
-### CS410 - 机器学习
+### CS410 - 人工智能
 
 * Project
     * [@skyzh, 2020 Fall](https://github.com/iskyzh/ml-gcn)
@@ -248,6 +274,8 @@
 
 * Project
     * [@wzh99, 2020 Spring](https://github.com/wzh99/DCP-TF)
+* Homework and Project
+    * [@LittleQili, 2021 Spring](https://github.com/LittleQili/CS473)
 
 <a name="cs499"></a>
 ### CS499 - 计算机科学中的数学基础
@@ -256,6 +284,22 @@
     * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Hand-Written-Notes-of-SJTU-CS499-Mathematical-Foundation-of-ComputerScience)  Dominik Scheder 英文班
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
+* 学习资料 
+    * [@davids1896, 2021 Spring](https://github.com/davids1896/CS499) 中文班
+
+<a name="ee359"></a>
+### EE359 - 数据挖掘技术
+
+* Lab
+    * [@Galaxies99, 2021 Spring](https://github.com/Galaxies99/EE359-Labs)
+
+<a name="ee447"></a>
+### EE447 - 移动互联网
+
+* Homework & Lab
+    * [@Galaxies99, 2021 Spring](https://github.com/Galaxies99/EE447-CourseData)
+* Project
+    * [@Galaxies99 @Dazz993 @zhao-hr, 2021 Spring](https://github.com/Galaxies99/oh-my-papers)
 
 <a name="ee458"></a>
 ### EE458 - 软件工程
@@ -271,6 +315,16 @@
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 中文班
+* lab
+    * [@davids1896, 2021 Spring](https://github.com/davids1896/SJTU-EI209-Lab_Computer_Organization)
+    * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/EI209%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90) 中文班
+    
+<a name="ei314"></a>
+### EI314 - 工程实践与科技创新III-E
+
+* Project
+    * [@Galaxies99 @Dazz993 @KoalaYan @Rem-Yin, 2021 Spring](https://github.com/Galaxies99/alpha-protein)
+    * [@skyzh @Leavrth @YoruCathy @Zirconium-9, 2021 Spring](https://github.com/skyzh/FlyThat)
 
 <a name="is307"></a>
 ### IS307 - 密码学与信息安全基础
