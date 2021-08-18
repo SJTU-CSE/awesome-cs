@@ -123,8 +123,8 @@
     * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS214-Project)
     * [@LuminousXLB, 2020 Spring](https://github.com/LuminousXLB/Algorithms-Notes)
 * 英文班 Project
-    * [@theLastRefugee @Purewhite2019 @Renyang2ZC, 2021 Spring](https://github.com/YanjieZe/Project-CS214)
     * [@Galaxies99 @KoalaYan @DicardoX, 2020 Spring](https://github.com/Galaxies99/CS214-Project) 
+    * [@YanjieZe @Purewhite2019 @Renyang2ZC, 2021 Spring](https://github.com/YanjieZe/Project-CS214)
 * 笔记
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
@@ -212,11 +212,11 @@
             * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj2-OOMKiller)
             * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)
 * 中文班
-    * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/OperatingSystem-Labs)
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/SJTU-CS356-CS307-OSProj)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS356-Projects)
     * [@HaotianXue, 2020 Spring](https://github.com/xavihart/OS-Lab)
     * [@PsyduckLiu, 2020 Spring](https://github.com/PsyduckLiu/CS307-Operating-System)
+    * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/OperatingSystem-Labs)
     
 <a name="cs359"></a>
 
@@ -228,11 +228,11 @@
 * 课程实践（中文班）
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS359%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84) 
 * Project 1: Optimizing the Performance of a Pipelined Processor （英文班)
-    * [@YanjieZe @Vladimirovich2019, 2021 Spring](https://github.com/YanjieZe/ArchLab)
     * [@BugenZhao @doctormin, 2020 Spring](https://github.com/zztoy/ComputerArch-Prj1)
+    * [@YanjieZe @Vladimirovich2019, 2021 Spring](https://github.com/YanjieZe/ArchLab)
 * Project 2: Understanding Cache Memories （英文班)
-    * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/CacheLab)
     * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS359-project2)
+    * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/CacheLab)
 
 <a name="cs383"></a>
 ### CS383 - 程序设计语言 (A类)
@@ -288,8 +288,8 @@
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
 * 学习资料 
-    * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/SJTU_Course_Notes) 中文班
     * [@davids1896, 2021 Spring](https://github.com/davids1896/CS499) 中文班
+    * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/SJTU_Course_Notes) 中文班
 
 <a name="ee359"></a>
 ### EE359 - 数据挖掘技术
