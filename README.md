@@ -145,6 +145,7 @@
     * [@PsyduckLiu, 2019 Fall](https://github.com/PsyduckLiu/CS241--Problem_solving_and_practice)
     * [@skyzh, 2019 Fall](https://github.com/skyzh/Meteor)
     * [@davidwang200099, 2020 Fall](https://github.com/davidwang200099/CS241-finalproject)
+    * [@RenyangGuan, 2020 Fall](https://github.com/guanrenyang/qt-TaxiDemandAnalyzer)
     * [@yinwaii, 2020 Fall](https://github.com/yinwaii/Quick_Hailer)
 * 中文班
     * [@Galaxies99, 2019 Fall](https://github.com/Galaxies99/CS241-CourseData)
@@ -216,8 +217,10 @@
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS356-Projects)
     * [@HaotianXue, 2020 Spring](https://github.com/xavihart/OS-Lab)
     * [@PsyduckLiu, 2020 Spring](https://github.com/PsyduckLiu/CS307-Operating-System)
+    * [@RenyangGuan, 2021 Spring](https://github.com/guanrenyang/CS356-Operating-System-Projects)
     * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/OperatingSystem-Labs)
     
+
 <a name="cs359"></a>
 
 ### CS359 - 计算机系统结构 (A类)
@@ -289,6 +292,7 @@
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
 * 学习资料 
     * [@davids1896, 2021 Spring](https://github.com/davids1896/CS499) 中文班
+    * [@RenyangGuan, 2021 Spring]https://github.com/guanrenyang/SJTU-Course-Notes/tree/main/CS499-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80) 中文班
     * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/SJTU_Course_Notes) 中文班
 
 <a name="ee359"></a>
@@ -319,10 +323,13 @@
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 中文班
+    * [@RenyangGuan, 2021 Spring](https://github.com/guanrenyang/SJTU-Course-Notes/tree/main/EI209-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90) 中文班
 * lab
     * [@davids1896, 2021 Spring](https://github.com/davids1896/SJTU-EI209-Lab_Computer_Organization)
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/EI209%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90) 中文班
+    * [@RenyangGuan, 2021 Spring](https://github.com/guanrenyang/EI209-Computer-Conposition-Experiment.git) 中文班
     
+
 <a name="ei314"></a>
 ### EI314 - 工程实践与科技创新III-E
 
