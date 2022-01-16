@@ -49,6 +49,7 @@
 * [CS385: 机器学习](#cs385)
 * [CS386: 数字图像处理](#cs386)
 * [CS410: 人工智能](#cs410)
+* [CS433: 并行与分布式计算](#cs433)
 * [CS467: 计算理论](#cs467)
 * [CS473: GPU计算及深度学习](#cs473)
 * [CS499: 计算机科学中的数学基础](#cs499)
@@ -268,6 +269,14 @@
 
 * Project
     * [@skyzh, 2020 Fall](https://github.com/iskyzh/ml-gcn)
+
+<a name="cs433"></a>
+### CS433 - 并行与分布式计算
+
+* Homeworks
+    * [@Galaxies99, 2021 Fall](https://github.com/galaxies99/CS433-Homeworks)
+* Project
+    * [@Galaxies99 @KoalaYan @zhao-hr, 2021 Fall](https://github.com/galaxies99/inception-cuda)
 
 
 <a name="cs467"></a>
