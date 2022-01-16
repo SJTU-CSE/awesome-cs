@@ -183,6 +183,7 @@
 * Project
     * [@Youngzt998, 2019 Fall](https://github.com/Youngzt998/Naive-Airdrop)
     * [@skyzh @biansy000 @BrianWU-S, 2020 Fall](https://github.com/skyzh/chaos-video)
+    * [@ChenWendi2001 @CWHer @yuri-you, 2021 Fall](https://github.com/ChenWendi2001/StreamRipper)
 
 <a name="cs356"></a>
 ### CS356 - 操作系统课程设计
