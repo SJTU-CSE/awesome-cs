@@ -136,6 +136,7 @@
 * Project
     * [@skyzh, 2020 Fall](https://github.com/iskyzh/hadoop-spark-job)
     * [@pangbo13, 2021 Fall](https://github.com/pangbo13/Courses/tree/main/CS236%20%E4%BA%91%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF)
+    * [@Victrid, 2021 Fall](https://github.com/Victrid/CS236-Cloud-Experiment)
 
 <a name="cs241"></a>
 ### CS241 - 问题求解与实践
@@ -287,7 +288,8 @@
 ### CS467 - 计算理论
 
 * 笔记
-    * [@Galaxies99, 2020 Fall](https://github.com/Galaxies99/SJTU-course-notes)
+    * [@Galaxies99, 2020 Fall](https://github.com/Galaxies99/SJTU-course-notes) 中文班
+    * [@Victrid, 2021 Fall](https://github.com/Victrid/CS467-Theory-of-Computing-Notes) 英文班
 
 <a name="cs473"></a>
 ### CS473 - GPU计算及深度学习
