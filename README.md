@@ -173,6 +173,8 @@
 <a name="cs337"></a>
 ### CS337 - 计算机图形学
 
+* 笔记
+    * [@CWHer, 2021 Fall](https://github.com/CWHer/SJTU-Notes) 
 * CG Lab
     * [@wzh99, 2019 Fall](https://github.com/wzh99/KartGame)
 * Project
@@ -185,6 +187,7 @@
 
 * 笔记
     * [@PeiyuChen1005, 2020 Fall](https://github.com/PeiyuChen1005/SJTU-CSE-notes) 中文班
+    * [@CWHer, 2021 Fall](https://github.com/CWHer/SJTU-Notes) 
 * Project
     * [@Youngzt998, 2019 Fall](https://github.com/Youngzt998/Naive-Airdrop)
     * [@skyzh @biansy000 @BrianWU-S, 2020 Fall](https://github.com/skyzh/chaos-video)
@@ -274,8 +277,11 @@
 <a name="cs410"></a>
 ### CS410 - 人工智能
 
+* 笔记
+    * [@CWHer, 2021 Fall](https://github.com/CWHer/SJTU-Notes) 英文班
 * Project
     * [@skyzh, 2020 Fall](https://github.com/iskyzh/ml-gcn)
+    * [@CWHer @yuri-you, 2021 Fall](https://github.com/CWHer/CS410-AI-project) 英文班
     * [@pangbo13, 2021 Fall](https://github.com/pangbo13/Courses/tree/main/CS410%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD)
     * [@RenyangGuan, 2021 Fall](https://github.com/guanrenyang/SJTU-Course-Notes/tree/main/CS410-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD)
 
