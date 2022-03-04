@@ -180,6 +180,7 @@
 * Project
     * [@wzh99, 2019 Fall](https://github.com/wzh99/OptICP)
     * [@Liuzirui666 @RenyangGuan, 2021 Fall](https://github.com/guanrenyang/NSRR-Reimplementation)
+    * [@Mighty-A @Healthcliff-Ding, 2021 Fall](https://github.com/Mighty-A/OptimizedMetaBall)
 
 <a name="cs339"></a>
 ### CS339 - 计算机网络
