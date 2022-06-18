@@ -77,6 +77,7 @@
     * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/SJTU-CS145)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS145-ArchLabs)
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS145%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
+    * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
 * Lab 5
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
     * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/MIPS/tree/master)
@@ -84,6 +85,7 @@
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS145-ArchLabs)
     * [@skyzh, 2020 Spring](https://github.com/skyzh/mips-cpu/tree/single-cycle)
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS145%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
+    * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
 * Lab 6
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
     * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/MIPS/tree/pipe)
@@ -91,6 +93,7 @@
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS145-ArchLabs)
     * [@skyzh, 2020 Spring](https://github.com/skyzh/mips-cpu)
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS145%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
+    * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
 
 <a name="cs149"></a>
 ### CS149 + CS158 + CS358 - 数据结构 + 数据结构 (荣誉) + 数据结构A
@@ -232,6 +235,7 @@
     * [@PsyduckLiu, 2020 Spring](https://github.com/PsyduckLiu/CS307-Operating-System)
     * [@RenyangGuan, 2021 Spring](https://github.com/guanrenyang/CS356-Operating-System-Projects)
     * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/OperatingSystem-Labs)
+    * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)
     
 
 <a name="cs359"></a>
@@ -246,9 +250,11 @@
 * Project 1: Optimizing the Performance of a Pipelined Processor （英文班)
     * [@BugenZhao @doctormin, 2020 Spring](https://github.com/zztoy/ComputerArch-Prj1)
     * [@YanjieZe @Vladimirovich2019, 2021 Spring](https://github.com/YanjieZe/ArchLab)
+    * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%EF%BC%88%E8%8B%B1%E6%96%87%E7%8F%AD%EF%BC%89)
 * Project 2: Understanding Cache Memories （英文班)
     * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS359-project2)
     * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/CacheLab)
+    * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%EF%BC%88%E8%8B%B1%E6%96%87%E7%8F%AD%EF%BC%89)
 
 <a name="cs383"></a>
 ### CS383 - 程序设计语言 (A类)
@@ -355,6 +361,7 @@
     * [@davids1896, 2021 Spring](https://github.com/davids1896/SJTU-EI209-Lab_Computer_Organization)
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/EI209%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90) 中文班
     * [@RenyangGuan, 2021 Spring](https://github.com/guanrenyang/EI209-Computer-Conposition-Experiment.git) 中文班
+    * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90) 中文班
     
 
 <a name="ei314"></a>
