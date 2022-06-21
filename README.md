@@ -232,6 +232,7 @@
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/SJTU-CS356-CS307-OSProj)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS356-Projects)
     * [@HaotianXue, 2020 Spring](https://github.com/xavihart/OS-Lab)
+    * [@Musicminion, 2022 Spring](https://github.com/Musicminion/OS-Project)
     * [@PsyduckLiu, 2020 Spring](https://github.com/PsyduckLiu/CS307-Operating-System)
     * [@RenyangGuan, 2021 Spring](https://github.com/guanrenyang/CS356-Operating-System-Projects)
     * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/OperatingSystem-Labs)
