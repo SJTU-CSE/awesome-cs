@@ -165,6 +165,8 @@
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
+* 作业答案
+    * [@Musicminion, 2022 Spring](https://github.com/Musicminion/OS-Project/blob/master/README.md)
 
 <a name="cs308"></a>
 ### CS308 - 编译原理 (A类)
@@ -236,7 +238,7 @@
     * [@RenyangGuan, 2021 Spring](https://github.com/guanrenyang/CS356-Operating-System-Projects)
     * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/OperatingSystem-Labs)
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)
-    
+    * [@Musicminion, 2022 Spring](https://github.com/Musicminion/OS-Project/blob/master/README.md)
 
 <a name="cs359"></a>
 
