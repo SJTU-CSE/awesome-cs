@@ -254,7 +254,6 @@
     * [@BugenZhao, 2019 Fall](https://github.com/BugenZhao/MTAnalyzer)
     * [@HaotianXue, 2019 Fall](https://github.com/xavihart/CS241_QtProj)
     * [@MinoZhao, 2019 Fall](https://github.com/doctormin/Hangzhou-Metro-Data-Visualizer)
-    * [@PsyduckLiu, 2019 Fall](https://github.com/PsyduckLiu/CS241--Problem_solving_and_practice)
     * [@skyzh, 2019 Fall](https://github.com/skyzh/Meteor)
     * [@davidwang200099, 2020 Fall](https://github.com/davidwang200099/CS241-finalproject)
     * [@RenyangGuan, 2020 Fall](https://github.com/guanrenyang/qt-TaxiDemandAnalyzer)
