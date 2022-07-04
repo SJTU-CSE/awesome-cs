@@ -119,7 +119,7 @@
 * Project
     * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS308-Project)
     * [@keithnull, 2020 Spring](https://github.com/keithnull/opg-analyzer)
-    * [@ADSWT518, 2022 Spring](https://github.com/ADSWT518/tiny-project)
+    * [@ADSWT518 @xielihan, 2022 Spring](https://github.com/ADSWT518/tiny-project)
 
 <a name="cs2302"></a>
 ### CS2302 (原 CS307) - 操作系统 (D类)
