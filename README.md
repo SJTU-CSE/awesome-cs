@@ -50,6 +50,7 @@
 * [CS3304 (原 CS383): 程序设计语言](#cs3304)
 * [CS3310 (原 CS337): 计算机图形学](#cs3310)
 * [CS3311 (原 CS339): 计算机网络](#cs3311)
+* [CS3312 (原 IS308): 计算机系统安全](#cs3312)
 * [CS3313 (原 CS467): 计算理论](#cs3313)
 * [CS3314 (原 IS307): 密码学与信息安全基础](#cs3314)
 * [CS3317 (原 CS410): 人工智能](#cs3317)
@@ -57,6 +58,7 @@
 * [CS3324 (原 CS386): 数字图像处理](#cs3324)
 * [CS3328 (原 CS236): 云计算技术](#cs3328)
 * [CS3331 (原 EE458): 软件工程](#cs3331)
+* [CS3507 (原 EI328): 工程实践与科技创新IV-J](#cs3507)
 * [CS3512 (原 EI314): 工程实践与科技创新III-E](#cs3512)
 * [CS3609 (原 CS385): 机器学习](#cs3609)
 * [CS3610 (原 EE359): 数据挖掘技术](#cs3610)
@@ -117,6 +119,7 @@
 * Project
     * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS308-Project)
     * [@keithnull, 2020 Spring](https://github.com/keithnull/opg-analyzer)
+    * [@ADSWT518, 2022 Spring](https://github.com/ADSWT518/tiny-project)
 
 <a name="cs2302"></a>
 ### CS2302 (原 CS307) - 操作系统 (D类)
@@ -276,6 +279,8 @@
 
 * Project
     * [@wzh99, 2020 Spring](https://github.com/wzh99/VarCheck)
+* Assignments
+    * [@ADSWT518, 2022 Spring](https://github.com/ADSWT518/PAV-assignments)
 
 <a name="cs3304"></a>
 ### CS3304 (原 CS383) - 程序设计语言 (A类)
@@ -309,6 +314,12 @@
     * [@RenyangGuan @Yongxiang-Bao @zyjggg, 2021 Fall](https://github.com/guanrenyang/SendTo)
 * Lab
     * [@pangbo13, 2021 Fall](https://github.com/pangbo13/Courses/tree/main/CS339%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C) 英文班
+
+<a name="cs3312"></a>
+### CS3312 (原 IS308) - 计算机系统安全
+
+* Homework & Lab
+    * [@ADSWT518, 2022 Spring](https://github.com/ADSWT518/system-security-lab-hw)
 
 <a name="cs3313"></a>
 ### CS3313 (原 CS467) - 计算理论
@@ -363,6 +374,12 @@
 
 * Project
     * [@untitled-group, 2021 Spring](https://github.com/untitled-group/kanbasu)
+
+<a name="cs3507"></a>
+### CS3507 (原 EI328) - 工程实践与科技创新IV-J
+
+* Project
+    * [@QDelta @ADSWT518, 2022 Spring](https://github.com/QDelta/Affective-Learning)
 
 <a name="cs3512"></a>
 ### CS3512 (原 EI314) - 工程实践与科技创新III-E
