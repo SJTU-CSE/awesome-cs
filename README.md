@@ -359,6 +359,7 @@
 * Project
     * [@wzh99, 2019 Fall](https://github.com/wzh99/RealGes)
     * [@Galaxies99, 2020 Fall](https://github.com/Galaxies99/HDRLib)
+    * [@Ji-Xinyou, 2021 Fall](https://github.com/Ji-Xinyou/DIP-proj-DepthEstimation)
 
 <a name="cs3328"></a>
 ### CS3328 (原 CS236) - 云计算技术
