@@ -281,6 +281,7 @@
     * [@wzh99, 2020 Spring](https://github.com/wzh99/VarCheck)
 * Assignments
     * [@ADSWT518, 2022 Spring](https://github.com/ADSWT518/PAV-assignments)
+    * [@QDelta, 2022 Spring](https://github.com/QDelta/SE353-hws)
 
 <a name="cs3304"></a>
 ### CS3304 (原 CS383) - 程序设计语言 (A类)
@@ -288,6 +289,7 @@
 * Project
     * [@wzh99, 2020 Spring](https://github.com/wzh99/SimPL)
     * [@Youngzt998, 2020 Spring](https://github.com/Youngzt998/SimPL-Interpreter)
+    * [@QDelta, 2022 Spring](https://github.com/QDelta/simpl)
 
 <a name="cs3310"></a>
 ### CS3310 (原 CS337) - 计算机图形学
@@ -300,6 +302,7 @@
     * [@wzh99, 2019 Fall](https://github.com/wzh99/OptICP)
     * [@Liuzirui666 @RenyangGuan, 2021 Fall](https://github.com/guanrenyang/NSRR-Reimplementation)
     * [@Mighty-A @Healthcliff-Ding, 2021 Fall](https://github.com/Mighty-A/OptimizedMetaBall)
+    * [@QDelta @JasonZhang517 @rpkoori, 2021 Fall](https://github.com/QDelta/CS337-RT)
 
 <a name="cs3311"></a>
 ### CS3311 (原 CS339) - 计算机网络
