@@ -289,6 +289,7 @@
 * Project
     * [@wzh99, 2020 Spring](https://github.com/wzh99/SimPL)
     * [@Youngzt998, 2020 Spring](https://github.com/Youngzt998/SimPL-Interpreter)
+    * [@PhotonQuantum, 2022 Spring](https://github.com/PhotonQuantum/SimPL)
     * [@QDelta, 2022 Spring](https://github.com/QDelta/simpl)
 
 <a name="cs3310"></a>
