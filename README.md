@@ -304,6 +304,7 @@
     * [@Liuzirui666 @RenyangGuan, 2021 Fall](https://github.com/guanrenyang/NSRR-Reimplementation)
     * [@Mighty-A @Healthcliff-Ding, 2021 Fall](https://github.com/Mighty-A/OptimizedMetaBall)
     * [@QDelta @JasonZhang517 @rpkoori, 2021 Fall](https://github.com/QDelta/CS337-RT)
+    * [@YanjieZe @Purewhite2019, 2021 Fall](https://github.com/theLastRefugee/NU-SSSR)
 
 <a name="cs3311"></a>
 ### CS3311 (原 CS339) - 计算机网络
