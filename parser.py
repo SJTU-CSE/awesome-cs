@@ -186,7 +186,7 @@ class MdRenderer(BaseRenderer):
         append_text = ""
         prepend_text = ""
         if level == 3:
-            result = re.match(r"(.*)(?: \(原 (?:.*)\))? - (.*)", text)
+            result = re.match(r"(\S*) (?:\(原 (?:.*)\) )?- (\S*)", text)
             if result:
                 anchor = parse_anchor(self.last_html)
                 self.last_html = ""
