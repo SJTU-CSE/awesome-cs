@@ -349,6 +349,7 @@
     * [@CWHer @yuri-you, 2021 Fall](https://github.com/CWHer/CS410-AI-project) 英文班
     * [@pangbo13, 2021 Fall](https://github.com/pangbo13/Courses/tree/main/CS410%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD)
     * [@RenyangGuan, 2021 Fall](https://github.com/guanrenyang/SJTU-Course-Notes/tree/main/CS410-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD)
+    * [@qiemanqieman@shadowbringer1@phoebe-syw, 2022 Fall](https://github.com/qiemanqieman/advanced-sat-solver) 英文班
 
 <a name="cs3321"></a>
 ### CS3321 (原 SE305) - 数据库技术
