@@ -55,6 +55,7 @@
 * [CS3314 (原 IS307): 密码学与信息安全基础](#cs3314)
 * [CS3317 (原 CS410): 人工智能](#cs3317)
 * [CS3321 (原 SE305): 数据库技术](#cs3321)
+* [CS3322: 数据库原理](#cs3322)
 * [CS3324 (原 CS386): 数字图像处理](#cs3324)
 * [CS3328 (原 CS236): 云计算技术](#cs3328)
 * [CS3331 (原 EE458): 软件工程](#cs3331)
@@ -356,7 +357,15 @@
 
 * 笔记
     * [@Galaxies99, 2020 Fall](https://github.com/Galaxies99/SJTU-course-notes)
+    
+<a name="cs3322"></a>
+### CS3322 - 数据库原理
 
+* 笔记
+    * [@pangbo13, 2022 Spring](https://github.com/pangbo13/Courses/tree/main/CS3322%20%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8E%9F%E7%90%86)
+* SQL Statement Exercises
+    * [@pangbo13, 2022 Spring](https://github.com/pangbo13/Courses/tree/main/CS3322%20%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8E%9F%E7%90%86/Chapter6%20SQL%20Exercises)
+    
 <a name="cs3324"></a>
 ### CS3324 (原 CS386) - 数字图像处理
 
@@ -381,12 +390,16 @@
 
 * Project
     * [@untitled-group, 2021 Spring](https://github.com/untitled-group/kanbasu)
+* 笔记
+    * [@pangbo13, 2022 Spring](https://github.com/pangbo13/Courses/tree/main/EE458%20%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
 
 <a name="cs3507"></a>
 ### CS3507 (原 EI328) - 工程实践与科技创新IV-J
 
 * Project
     * [@QDelta @ADSWT518, 2022 Spring](https://github.com/QDelta/Affective-Learning)
+* Homework 1
+    * [@pangbo13, 2022 Spring](https://github.com/pangbo13/Courses/tree/main/EI328%20%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E4%B8%8E%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E2%85%A3-J)
 
 <a name="cs3512"></a>
 ### CS3512 (原 EI314) - 工程实践与科技创新III-E
