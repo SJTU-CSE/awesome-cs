@@ -88,6 +88,7 @@
     * [@Youngzt998, 2018 Fall](https://github.com/Youngzt998/Re-implementation-of-deque-and-map)
 * 笔记
     * [@Galaxies99, 2019 Spring](https://github.com/Galaxies99/SJTU-course-notes) 数据结构（荣誉）
+    * [@UNIkeEN, 2022 Fall](https://github.com/UNIkeEN/course-notes) 
 * 小作业
     * [#29](https://github.com/SJTU-CSE/awesome-cs/pull/29) 数据结构（荣誉）课程助教不建议公开索引代码。
 
