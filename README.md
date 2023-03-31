@@ -77,11 +77,11 @@
     * [@Neight99, 2018 Fall](https://github.com/Neight99/SJTU_DataStructure_A/tree/master/DS_STL)
     * [@Youngzt998, 2018 Fall](https://github.com/Youngzt998/Re-implementation-of-deque-and-map)
     * [@Galaxies99, 2019 Spring](https://github.com/Galaxies99/CS158-Project-Deque)
-    * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-deque)
+    * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/CS158-Project)
     * [@skyzh, 2019 Spring](https://github.com/skyzh/data-structure-deque)
 * B-Tree
     * [@Galaxies99, 2019 Spring](https://github.com/Galaxies99/CS158-Project-BTree)
-    * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-BTree)
+    * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/CS158-Project)
     * [@skyzh, 2019 Spring](https://github.com/skyzh/BPlusTree)
 * Map
     * [@Neight99, 2018 Fall](https://github.com/Neight99/SJTU_DataStructure_A/tree/master/DS_STL)
@@ -141,7 +141,7 @@
         * [@Youngzt998, 2019 Spring](https://github.com/Youngzt998/Operating-System-Projects)
         * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject1)
         * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS356-Project1)
-        * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj1-AnroidProcessTree)
+        * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/CS356-Project)
         * [@skyzh, 2020 Spring](https://github.com/iskyzh/pstree_android)
         * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS356%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/Lab01)
         * [@Victrid, 2021 Spring](https://github.com/Victrid/CS356-project-1)
@@ -157,7 +157,7 @@
         * Memory Limit for Applications
             * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/OSProject2)
             * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS356-Project2)
-            * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/2020-CS356-Osprj2-OOMKiller)
+            * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/CS356-Project)
             * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)
 * 中文班
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/SJTU-CS356-CS307-OSProj)
