@@ -88,7 +88,7 @@
     * [@Youngzt998, 2018 Fall](https://github.com/Youngzt998/Re-implementation-of-deque-and-map)
 * 笔记
     * [@Galaxies99, 2019 Spring](https://github.com/Galaxies99/SJTU-course-notes) 数据结构（荣誉）
-    * [@UNIkeEN, 2022 Fall](https://github.com/UNIkeEN/course-notes) 
+    * [@UNIkeEN, 2022 Fall](https://github.com/UNIkeEN/course-notes/tree/main/CS0501_Data%20Structure)
 * 小作业
     * [#29](https://github.com/SJTU-CSE/awesome-cs/pull/29) 数据结构（荣誉）课程助教不建议公开索引代码。
 
@@ -134,7 +134,7 @@
 <a name="cs2303"></a>
 ### CS2303 (原 CS356) - 操作系统课程设计
 
-* 英文班
+* 英文班 (2022 Spring及以前)
     * Project 1
         * [@nexuslrf, 2018 Spring](https://github.com/nexuslrf/Android_kernel_programming)
         * [@wzh99, 2019 Spring](https://github.com/wzh99/OSProject)
@@ -159,6 +159,11 @@
             * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS356-Project2)
             * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/CS356-Project)
             * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)
+* 英文班 (2023 Spring)
+   * Project 1-2
+      * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/course-notes/tree/main/CS2303_Project%20Workshop%20of%20Operating%20System)
+   * Project 3
+      * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/A-Simple-File-System)
 * 中文班
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/SJTU-CS356-CS307-OSProj)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS356-Projects)
