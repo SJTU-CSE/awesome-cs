@@ -437,6 +437,7 @@
     * [@Galaxies99, 2021 Fall](https://github.com/galaxies99/CS433-Homeworks)
 * Project
     * [@Galaxies99 @KoalaYan @zhao-hr, 2021 Fall](https://github.com/galaxies99/inception-cuda)
+    * [@CWHer @Victrid @Vieran, 2022 Fall](https://github.com/CWHer/TensorCore-Proj)
 
 <a name="ice3608"></a>
 ### ICE3608 (原 EE447) - 移动互联网
