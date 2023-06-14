@@ -193,13 +193,14 @@
 * 笔记
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
+    * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/course-notes/tree/main/CS2305_Computer%20System%20Architecture) 中文班
 * 课程实践（中文班）
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS359%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84) 
-* Project 1: Optimizing the Performance of a Pipelined Processor （英文班)
+* Project 1: Optimizing the Performance of a Pipelined Processor (英文班)
     * [@BugenZhao @doctormin, 2020 Spring](https://github.com/zztoy/ComputerArch-Prj1)
     * [@YanjieZe @Vladimirovich2019, 2021 Spring](https://github.com/YanjieZe/ArchLab)
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%EF%BC%88%E8%8B%B1%E6%96%87%E7%8F%AD%EF%BC%89)
-* Project 2: Understanding Cache Memories （英文班)
+* Project 2: Understanding Cache Memories (英文班)
     * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS359-project2)
     * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/CacheLab)
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%EF%BC%88%E8%8B%B1%E6%96%87%E7%8F%AD%EF%BC%89)
