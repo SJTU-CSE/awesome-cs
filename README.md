@@ -200,10 +200,12 @@
     * [@BugenZhao @doctormin, 2020 Spring](https://github.com/zztoy/ComputerArch-Prj1)
     * [@YanjieZe @Vladimirovich2019, 2021 Spring](https://github.com/YanjieZe/ArchLab)
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%EF%BC%88%E8%8B%B1%E6%96%87%E7%8F%AD%EF%BC%89)
+    * [@jianke0604, 2023 Spring](https://github.com/jianke0604/CS2305-project)
 * Project 2: Understanding Cache Memories (英文班)
     * [@davidwang200099, 2020 Spring](https://github.com/davidwang200099/CS359-project2)
     * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/CacheLab)
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%EF%BC%88%E8%8B%B1%E6%96%87%E7%8F%AD%EF%BC%89)
+    * [@jianke0604, 2023 Spring](https://github.com/jianke0604/CS2305-project)
 
 <a name="cs2306"></a>
 ### CS2306 (原 CS145) - 计算机系统结构实验
