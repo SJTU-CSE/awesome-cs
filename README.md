@@ -173,6 +173,7 @@
     * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/OperatingSystem-Labs)
     * [@Musicminion, 2022 Spring](https://github.com/Musicminion/OS-Project)
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)
+    * [@jianke0604, 2023 Spring](https://github.com/jianke0604/SJTU-course-notes/tree/main/CS2303%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)
 
 <a name="cs2304"></a>
 ### CS2304 (原 CS499) - 计算机科学中的数学基础
@@ -253,6 +254,7 @@
 * 中文班
     * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS214-Project)
     * [@LuminousXLB, 2020 Spring](https://github.com/LuminousXLB/Algorithms-Notes)
+    * [@jianke0604, 2023 Spring](https://github.com/jianke0604/SJTU-course-notes/tree/main/CS2303%20%E7%AE%97%E6%B3%95%E4%B8%8E%E5%A4%8D%E6%9D%82%E6%80%A7) 中文班作业
 * 英文班 Project
     * [@Galaxies99 @KoalaYan @DicardoX, 2020 Spring](https://github.com/Galaxies99/CS214-Project) 
     * [@YanjieZe @Purewhite2019 @Renyang2ZC, 2021 Spring](https://github.com/YanjieZe/Project-CS214)
