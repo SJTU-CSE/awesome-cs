@@ -37,7 +37,6 @@
 * [CS1603 (原 CS125): 程序设计](#cs1603)
 * [CS1956 (原 MS125): 编程综合实践](#cs1956)
 * [CS2301 (原 CS308): 编译原理](#cs2301)
-* [CS2302 (原 CS307): 操作系统](#cs2302)
 * [CS2303 (原 CS356): 操作系统课程设计](#cs2303)
 * [CS2304 (原 CS499): 计算机科学中的数学基础](#cs2304)
 * [CS2305 (原 CS359): 计算机系统结构](#cs2305)
@@ -45,6 +44,7 @@
 * [CS2307 (原 EI209): 计算机组成](#cs2307)
 * [CS2308 (原 CS214): 算法与复杂性](#cs2308)
 * [CS2309 (原 CS241): 问题求解与实践](#cs2309)
+* [CS2310 (原 CS2302, CS307): 现代操作系统](#cs2310)
 * [CS3301 (原 CS473): GPU计算及深度学习](#cs3301)
 * [CS3303 (原 SE353): 程序分析与验证](#cs3303)
 * [CS3304 (原 CS383): 程序设计语言](#cs3304)
@@ -122,14 +122,6 @@
     * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS308-Project)
     * [@keithnull, 2020 Spring](https://github.com/keithnull/opg-analyzer)
     * [@ADSWT518 @xielihan, 2022 Spring](https://github.com/ADSWT518/tiny-project)
-
-<a name="cs2302"></a>
-### CS2302 (原 CS307) - 操作系统 (D类)
-
-* 笔记
-    * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
-    * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
-    * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
 
 <a name="cs2303"></a>
 ### CS2303 (原 CS356) - 操作系统课程设计
@@ -278,6 +270,16 @@
     * [@pangbo13, 2020 Fall](https://github.com/pangbo13/Courses/tree/main/CS241%20%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3%E4%B8%8E%E5%AE%9E%E8%B7%B5)
     * [@Musicminion, 2021 Fall](https://github.com/Musicminion/TreeVisualize-2021-SJTU-CS-Problem-Solution-and-Practice-Assignment)
 
+<a name="cs2310"></a>
+### CS2310 (原 CS2302, CS307) - 现代操作系统
+
+* 笔记
+    * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
+    * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
+    * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
+* 作业
+    * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/course-notes/tree/main/CS2310_Modern%20Operating%20Systems) 英文班
+  
 <a name="cs3301"></a>
 ### CS3301 (原 CS473) - GPU计算及深度学习
 
