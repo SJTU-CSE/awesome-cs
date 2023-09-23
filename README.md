@@ -153,10 +153,13 @@
             * [@KoalaYan, 2020 Spring](https://github.com/KoalaYan/CS356-Project)
             * [@skyzh, 2020 Spring](https://github.com/skyzh/oom_killer)
 * 英文班 (2023 Spring)
-   * Project 1-2
-      * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/course-notes/tree/main/CS2303_Project%20Workshop%20of%20Operating%20System)
-   * Project 3
-      * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/A-Simple-File-System)
+    * Project 1-2
+        * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/course-notes/tree/main/CS2303_Project%20Workshop%20of%20Operating%20System)
+        * [@w1049, 2023 Spring](https://github.com/w1049/SJTU-course/tree/main/OS%20Project)
+    * Project 3
+        * File System
+            * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/A-Simple-File-System)
+            * [@w1049, 2023 Spring](https://github.com/w1049/Toy-file-system)
 * 中文班
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/SJTU-CS356-CS307-OSProj)
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS356-Projects)
@@ -189,7 +192,8 @@
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
     * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/course-notes/tree/main/CS2305_Computer%20System%20Architecture) 中文班
 * 课程实践（中文班）
-    * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS359%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84) 
+    * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS359%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84)
+    * [@w1049, 2023 Spring](https://github.com/w1049/SJTU-course/tree/main/Architecture)
 * Project 1: Optimizing the Performance of a Pipelined Processor (英文班)
     * [@BugenZhao @doctormin, 2020 Spring](https://github.com/zztoy/ComputerArch-Prj1)
     * [@YanjieZe @Vladimirovich2019, 2021 Spring](https://github.com/YanjieZe/ArchLab)
@@ -210,6 +214,7 @@
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/CS145-ArchLabs)
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS145%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
+    * [@w1049, 2023 Spring](https://github.com/w1049/SJTU-course/tree/main/Archlabs)
 * Lab 5
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
     * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/MIPS/tree/master)
@@ -218,6 +223,7 @@
     * [@skyzh, 2020 Spring](https://github.com/skyzh/mips-cpu/tree/single-cycle)
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS145%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
+    * [@w1049, 2023 Spring](https://github.com/w1049/SJTU-course/tree/main/Archlabs)
 * Lab 6
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
     * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/MIPS/tree/pipe)
@@ -226,6 +232,7 @@
     * [@skyzh, 2020 Spring](https://github.com/skyzh/mips-cpu)
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS145%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
+    * [@w1049, 2023 Spring](https://github.com/w1049/SJTU-course/tree/main/Archlabs)
 
 <a name="cs2307"></a>
 ### CS2307 (原 EI209) - 计算机组成
