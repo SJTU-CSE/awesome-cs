@@ -254,7 +254,8 @@
 * 中文班
     * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS214-Project)
     * [@LuminousXLB, 2020 Spring](https://github.com/LuminousXLB/Algorithms-Notes)
-    * [@jianke0604, 2023 Spring](https://github.com/jianke0604/SJTU-course-notes/tree/main/CS2303%20%E7%AE%97%E6%B3%95%E4%B8%8E%E5%A4%8D%E6%9D%82%E6%80%A7) 中文班作业
+    * [@jianke0604, 2023 Spring](https://github.com/jianke0604/SJTU-course-notes/tree/main/CS2308%20%E7%AE%97%E6%B3%95%E4%B8%8E%E5%A4%8D%E6%9D%82%E6%80%A7)
+    * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/course-notes/tree/main/CS2308_Algorithm%20and%20Complexity)
 * 英文班 Project
     * [@Galaxies99 @KoalaYan @DicardoX, 2020 Spring](https://github.com/Galaxies99/CS214-Project) 
     * [@YanjieZe @Purewhite2019 @Renyang2ZC, 2021 Spring](https://github.com/YanjieZe/Project-CS214)
