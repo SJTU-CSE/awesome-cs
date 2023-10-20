@@ -328,6 +328,7 @@
     * [@Mighty-A @Healthcliff-Ding, 2021 Fall](https://github.com/Mighty-A/OptimizedMetaBall)
     * [@QDelta @JasonZhang517 @rpkoori, 2021 Fall](https://github.com/QDelta/CS337-RT)
     * [@YanjieZe @Purewhite2019, 2021 Fall](https://github.com/theLastRefugee/NU-SSSR)
+    * [@Junyi42, 2022 Fall](https://github.com/Junyi42/DiffStyle)
 
 <a name="cs3311"></a>
 ### CS3311 (原 CS339) - 计算机网络
@@ -424,6 +425,12 @@
 * Homework 1
     * [@pangbo13, 2022 Spring](https://github.com/pangbo13/Courses/tree/main/EI328%20%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E4%B8%8E%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E2%85%A3-J)
 
+<a name="cs3511"></a>
+### CS3511 - 工程实践与科技创新Ⅳ-I
+
+* Project
+    * [@Junyi42, 2023 Spring](https://github.com/Junyi42/DiffSketch)
+
 <a name="cs3512"></a>
 ### CS3512 (原 EI314) - 工程实践与科技创新III-E
 
@@ -454,6 +461,12 @@
 * Project
     * [@Galaxies99 @KoalaYan @zhao-hr, 2021 Fall](https://github.com/galaxies99/inception-cuda)
     * [@CWHer @Victrid @Vieran, 2022 Fall](https://github.com/CWHer/TensorCore-Proj)
+ 
+<a name="cs4314"></a>
+### CS4314 - 自然语言处理
+
+* Project
+    * [@zszheng147 @Junyi42, 2022 Fall](https://github.com/zszheng147/SLU-project-CS4314)
 
 <a name="ice3608"></a>
 ### ICE3608 (原 EE447) - 移动互联网
