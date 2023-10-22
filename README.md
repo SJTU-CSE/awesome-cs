@@ -430,6 +430,8 @@
 <a name="cs3511"></a>
 ### CS3511 - 工程实践与科技创新Ⅳ-I
 
+* Homework
+    * [@Junyi42, 2023 Spring](https://github.com/Junyi42/CS3511-Federated-Learning) (Federated learning)
 * Project
     * [@Junyi42, 2023 Spring](https://github.com/Junyi42/DiffSketch)
 
