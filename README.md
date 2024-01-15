@@ -410,6 +410,7 @@
     * [@RenyangGuan, 2021 Fall](https://github.com/guanrenyang/SJTU-Course-Notes/tree/main/CS236-%E4%BA%91%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF)
     * [@Victrid, 2021 Fall](https://github.com/Victrid/CS236-Cloud-Experiment)
     * [@wang-jiahua, 2022 Fall](https://github.com/wang-jiahua/cc-lab)
+    * [@UNIkeEN, 2023 Fall](https://github.com/UNIkeEN/course-notes/tree/main/CS3328_Cloud%20Computing%20Technology)
 
 <a name="cs3331"></a>
 ### CS3331 (原 EE458) - 软件工程
