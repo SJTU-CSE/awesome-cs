@@ -280,6 +280,7 @@
     * [@Galaxies99, 2019 Fall](https://github.com/Galaxies99/CS241-CourseData)
     * [@pangbo13, 2020 Fall](https://github.com/pangbo13/Courses/tree/main/CS241%20%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3%E4%B8%8E%E5%AE%9E%E8%B7%B5)
     * [@Musicminion, 2021 Fall](https://github.com/Musicminion/TreeVisualize-2021-SJTU-CS-Problem-Solution-and-Practice-Assignment)
+    * [@UNIkeEN, 2023 Fall](https://github.com/UNIkeEN/course-notes/tree/main/CS2309_Problem%20solving%20and%20Practice)
 
 <a name="cs2310"></a>
 ### CS2310 (原 CS2302, CS307) - 现代操作系统
@@ -376,6 +377,7 @@
     * [@pangbo13, 2021 Fall](https://github.com/pangbo13/Courses/tree/main/CS410%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD)
     * [@RenyangGuan, 2021 Fall](https://github.com/guanrenyang/SJTU-Course-Notes/tree/main/CS410-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD)
     * [@qiemanqieman@shadowbringer1@phoebe-syw, 2022 Fall](https://github.com/qiemanqieman/advanced-sat-solver) 英文班
+    * [@UNIkeEN, 2023 Fall](https://github.com/UNIkeEN/course-notes/tree/main/CS3317_Artificial%20Intelligence)
 
 <a name="cs3321"></a>
 ### CS3321 (原 SE305) - 数据库技术
