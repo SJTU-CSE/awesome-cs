@@ -332,6 +332,7 @@
     * [@QDelta @JasonZhang517 @rpkoori, 2021 Fall](https://github.com/QDelta/CS337-RT)
     * [@YanjieZe @Purewhite2019, 2021 Fall](https://github.com/theLastRefugee/NU-SSSR)
     * [@Junyi42, 2022 Fall](https://github.com/Junyi42/DiffStyle)
+    * [@UNIkeEN @ushio @Cradle, 2023 Fall](https://github.com/UNIkeEN/course-notes/tree/main/CS3310_Computer%20Graphics)
 
 <a name="cs3311"></a>
 ### CS3311 (原 CS339) - 计算机网络
