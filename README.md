@@ -195,6 +195,7 @@
     * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/course-notes/tree/main/CS2305_Computer%20System%20Architecture) 中文班
 * 课程实践（中文班）
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS359%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84)
+    * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/course-notes/tree/main/CS2305_Computer%20System%20Architecture)
     * [@w1049, 2023 Spring](https://github.com/w1049/SJTU-course/tree/main/Architecture)
 * Project 1: Optimizing the Performance of a Pipelined Processor (英文班)
     * [@BugenZhao @doctormin, 2020 Spring](https://github.com/zztoy/ComputerArch-Prj1)
