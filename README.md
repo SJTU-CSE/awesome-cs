@@ -48,6 +48,7 @@
 * [CS3301 (原 CS473): GPU计算及深度学习](#cs3301)
 * [CS3303 (原 SE353): 程序分析与验证](#cs3303)
 * [CS3304 (原 CS383): 程序设计语言](#cs3304)
+* [CS3308 (原 CS420): 机器学习](#cs3308)
 * [CS3310 (原 CS337): 计算机图形学](#cs3310)
 * [CS3311 (原 CS339): 计算机网络](#cs3311)
 * [CS3312 (原 IS308): 计算机系统安全](#cs3312)
@@ -318,6 +319,14 @@
     * [@Youngzt998, 2020 Spring](https://github.com/Youngzt998/SimPL-Interpreter)
     * [@PhotonQuantum, 2022 Spring](https://github.com/PhotonQuantum/SimPL)
     * [@QDelta, 2022 Spring](https://github.com/QDelta/simpl)
+ 
+<a name="cs3308"></a>
+### CS3308 (原 CS420) - 机器学习
+
+* 笔记
+  * [@UNIkeEN, 2024 Spring](https://github.com/UNIkeEN/course-notes/blob/main/CS3308_Machine%20Learning/%E7%AE%80%E8%A6%81%E7%AC%94%E8%AE%B0.pdf)
+* Project
+  * [@OnI0n @UNIkeEN @Ace Taffy, 2024 Spring](https://github.com/UNIkeEN/CS3308-ML-Project)
 
 <a name="cs3310"></a>
 ### CS3310 (原 CS337) - 计算机图形学
