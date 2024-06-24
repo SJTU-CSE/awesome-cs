@@ -100,7 +100,7 @@
 ### CS1501 - 程序设计思想与方法
 
 * Lab
-   * [@Mikujoker, 2024 Spring](https://github.com/Mikujoker/CPPReference)
+   * [@Mikujoker, 2024 Spring](https://github.com/Mikujoker/CPPReference/tree/master)
 
 <a name="cs1603"></a>
 ### CS1603 (原 CS125) - 程序设计
