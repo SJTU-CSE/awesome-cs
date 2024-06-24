@@ -34,6 +34,7 @@
 ### 目录
 
 * [CS0501, CS0501H (原 CS149, CS158, CS358): 数据结构](#cs0501)
+* [CS1501 : 程序设计思想与方法](#cs1501)
 * [CS1603 (原 CS125): 程序设计](#cs1603)
 * [CS1956 (原 MS125): 编程综合实践](#cs1956)
 * [CS2301 (原 CS308): 编译原理](#cs2301)
@@ -95,6 +96,11 @@
 * 小作业
     * [#29](https://github.com/SJTU-CSE/awesome-cs/pull/29) 数据结构（荣誉）课程助教不建议公开索引代码。
 
+<a name="cs1501"></a>
+### CS1501 - 程序设计思想与方法
+
+* Lab
+     * [@Mikujoker,2024 Fall](https://github.com/Mikujoker/CPPReference)
 <a name="cs1603"></a>
 ### CS1603 (原 CS125) - 程序设计
 
