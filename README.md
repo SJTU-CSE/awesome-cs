@@ -452,10 +452,11 @@
 <a name="cs3511"></a>
 ### CS3511 - 工程实践与科技创新Ⅳ-I
 
-* Homework
+* Individual Project
     * [@Junyi42, 2023 Spring](https://github.com/Junyi42/CS3511-Federated-Learning) (Federated learning)
-* Project
+* Group Project
     * [@Junyi42, 2023 Spring](https://github.com/Junyi42/DiffSketch)
+    * [@VinylCat @OnI0n @wxydada, 2024 Spring](https://github.com/VinylCat/CS3511)
 
 <a name="cs3512"></a>
 ### CS3512 (原 EI314) - 工程实践与科技创新III-E
