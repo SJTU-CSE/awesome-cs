@@ -133,6 +133,9 @@
     * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS308-Project)
     * [@keithnull, 2020 Spring](https://github.com/keithnull/opg-analyzer)
     * [@ADSWT518 @xielihan, 2022 Spring](https://github.com/ADSWT518/tiny-project)
+    * [@Nadeshiko725, 2024 Spring](https://github.com/Nadeshiko725/CS2301-Principles-of-Compilers)
+* Assignments
+    * [@Nadeshiko725, 2024 Spring](https://github.com/Nadeshiko725/CS2301-Principles-of-Compilers)
 
 <a name="cs2303"></a>
 ### CS2303 (原 CS356) - 操作系统课程设计
@@ -440,6 +443,12 @@
     * [@untitled-group, 2021 Spring](https://github.com/untitled-group/kanbasu)
 * 笔记
     * [@pangbo13, 2022 Spring](https://github.com/pangbo13/Courses/tree/main/EE458%20%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
+ 
+<a name="cs3333"></a>
+### CS3333 (原 CS4307) - 博弈论
+
+* Homework and Project
+    * [@Nadeshiko725, 2024 Spring](https://github.com/Nadeshiko725/CS3333-Game-Theory)
 
 <a name="cs3507"></a>
 ### CS3507 (原 EI328) - 工程实践与科技创新IV-J
