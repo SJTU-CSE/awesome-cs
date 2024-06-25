@@ -456,6 +456,7 @@
     * [@Junyi42, 2023 Spring](https://github.com/Junyi42/CS3511-Federated-Learning) (Federated learning)
 * Project
     * [@Junyi42, 2023 Spring](https://github.com/Junyi42/DiffSketch)
+    * [@VinylCat, 2024 Spring](https://github.com/VinylCat/CS3511)(teamwork)
 
 <a name="cs3512"></a>
 ### CS3512 (原 EI314) - 工程实践与科技创新III-E
