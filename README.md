@@ -61,6 +61,7 @@
 * [CS3324 (原 CS386): 数字图像处理](#cs3324)
 * [CS3328 (原 CS236): 云计算技术](#cs3328)
 * [CS3331 (原 EE458): 软件工程](#cs3331)
+* [CS3333 (原 CS4307): 博弈论](#cs3333)
 * [CS3507 (原 EI328): 工程实践与科技创新IV-J](#cs3507)
 * [CS3511: 工程实践与科技创新Ⅳ-I](#cs3511)
 * [CS3512 (原 EI314): 工程实践与科技创新III-E](#cs3512)
@@ -133,6 +134,10 @@
     * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS308-Project)
     * [@keithnull, 2020 Spring](https://github.com/keithnull/opg-analyzer)
     * [@ADSWT518 @xielihan, 2022 Spring](https://github.com/ADSWT518/tiny-project)
+    * [@Nadeshiko, 2024 Spring](https://github.com/Nadeshiko725/CS2301-Principles-of-Compilers)
+ 
+* Assignments
+    * [@Nadeshiko, 2024 Spring](https://github.com/Nadeshiko725/CS2301-Principles-of-Compilers)
 
 <a name="cs2303"></a>
 ### CS2303 (原 CS356) - 操作系统课程设计
@@ -440,6 +445,12 @@
     * [@untitled-group, 2021 Spring](https://github.com/untitled-group/kanbasu)
 * 笔记
     * [@pangbo13, 2022 Spring](https://github.com/pangbo13/Courses/tree/main/EE458%20%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
+
+<a name="cs3333"></a>
+### CS3333 (原 CS4307) - 博弈论
+
+* Homework and Project
+    * [@Nadeshiko, 2024Spring](https://github.com/Nadeshiko725/CS3333-Game-Theory)
 
 <a name="cs3507"></a>
 ### CS3507 (原 EI328) - 工程实践与科技创新IV-J
