@@ -450,7 +450,7 @@
 ### CS3333 (原 CS4307) - 博弈论
 
 * Homework and Project
-    * [@Nadeshiko, 2024Spring](https://github.com/Nadeshiko725/CS3333-Game-Theory)
+    * [@Nadeshiko, 2024S pring](https://github.com/Nadeshiko725/CS3333-Game-Theory)
 
 <a name="cs3507"></a>
 ### CS3507 (原 EI328) - 工程实践与科技创新IV-J
