@@ -134,6 +134,7 @@
     * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS308-Project)
     * [@keithnull, 2020 Spring](https://github.com/keithnull/opg-analyzer)
     * [@ADSWT518 @xielihan, 2022 Spring](https://github.com/ADSWT518/tiny-project)
+    * [@Nadeshiko, 2024 Spring](https://github.com/Nadeshiko725/CS2301-Principles-of-Compilers)
 * Assignments
     * [@Nadeshiko, 2024 Spring](https://github.com/Nadeshiko725/CS2301-Principles-of-Compilers)
 
@@ -448,7 +449,7 @@
 ### CS3333 (原 CS4307) - 博弈论
 
 * Homework and Project
-    * [@Nadeshiko, 2024Spring](https://github.com/Nadeshiko725/CS3333-Game-Theory)
+    * [@Nadeshiko, 2024 Spring](https://github.com/Nadeshiko725/CS3333-Game-Theory)
 
 <a name="cs3507"></a>
 ### CS3507 (原 EI328) - 工程实践与科技创新IV-J
