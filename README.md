@@ -463,7 +463,9 @@
 ### CS3511 - 工程实践与科技创新Ⅳ-I
 
 * Individual Project
-    * [@Junyi42, 2023 Spring](https://github.com/Junyi42/CS3511-Federated-Learning) (Federated learning)
+    * Federated learning
+        * [@Junyi42, 2023 Spring](https://github.com/Junyi42/CS3511-Federated-Learning)
+        * [@UNIkeEN, 2024 Spring](https://github.com/UNIkeEN/CS3511-Federated-Learning)
 * Group Project
     * [@Junyi42, 2023 Spring](https://github.com/Junyi42/DiffSketch)
     * [@VinylCat @OnI0n @wxydada, 2024 Spring](https://github.com/VinylCat/CS3511)
