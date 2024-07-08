@@ -134,6 +134,7 @@
     * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS308-Project)
     * [@keithnull, 2020 Spring](https://github.com/keithnull/opg-analyzer)
     * [@ADSWT518 @xielihan, 2022 Spring](https://github.com/ADSWT518/tiny-project)
+    * [@CYJ1222, 2024 Spring](https://github.com/CYJ1222/pony_compiler)
     * [@Nadeshiko, 2024 Spring](https://github.com/Nadeshiko725/CS2301-Principles-of-Compilers)
 * Assignments
     * [@Nadeshiko, 2024 Spring](https://github.com/Nadeshiko725/CS2301-Principles-of-Compilers)
