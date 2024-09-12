@@ -377,6 +377,9 @@
 * Homework & Lab
     * [@ADSWT518, 2022 Spring](https://github.com/ADSWT518/system-security-lab-hw)
 
+* Lab
+    * [@OsamuSkyhacker, 2024 Spring](https://github.com/OsamuSkyhacker/SJTU-CS3312-Lab)
+
 <a name="cs3313"></a>
 ### CS3313 (原 CS467) - 计算理论
 
