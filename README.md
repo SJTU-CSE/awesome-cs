@@ -61,6 +61,7 @@
 * [CS3324 (原 CS386): 数字图像处理](#cs3324)
 * [CS3328 (原 CS236): 云计算技术](#cs3328)
 * [CS3331 (原 EE458): 软件工程](#cs3331)
+* [CS3333 (原 CS4307): 博弈论](#cs3333)
 * [CS3507 (原 EI328): 工程实践与科技创新IV-J](#cs3507)
 * [CS3511: 工程实践与科技创新Ⅳ-I](#cs3511)
 * [CS3512 (原 EI314): 工程实践与科技创新III-E](#cs3512)
@@ -95,7 +96,6 @@
     * [@UNIkeEN, 2022 Fall](https://github.com/UNIkeEN/course-notes/tree/main/CS0501_Data%20Structure)
 * 小作业
     * [#29](https://github.com/SJTU-CSE/awesome-cs/pull/29) 数据结构（荣誉）课程助教不建议公开索引代码。
- 
 
 <a name="cs1501"></a>
 
@@ -103,6 +103,7 @@
 
 * Lab 
     * [@Mikujoker, 2023 Spring](https://github.com/Mikujoker/CPPReference)  
+    * [@Mikujoker, 2024 Spring](https://github.com/Mikujoker/CPPReference/tree/master)
 
 <a name="cs1603"></a>
 ### CS1603 (原 CS125) - 程序设计
@@ -135,6 +136,10 @@
     * [@Neight99, 2019 Spring](https://github.com/Neight99/SJTU-CS308-Project)
     * [@keithnull, 2020 Spring](https://github.com/keithnull/opg-analyzer)
     * [@ADSWT518 @xielihan, 2022 Spring](https://github.com/ADSWT518/tiny-project)
+    * [@CYJ1222, 2024 Spring](https://github.com/CYJ1222/pony_compiler)
+    * [@Nadeshiko, 2024 Spring](https://github.com/Nadeshiko725/CS2301-Principles-of-Compilers)
+* Assignments
+    * [@Nadeshiko, 2024 Spring](https://github.com/Nadeshiko725/CS2301-Principles-of-Compilers)
 
 <a name="cs2303"></a>
 ### CS2303 (原 CS356) - 操作系统课程设计
@@ -182,6 +187,7 @@
     * [@Musicminion, 2022 Spring](https://github.com/Musicminion/OS-Project)
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)
     * [@jianke0604, 2023 Spring](https://github.com/jianke0604/SJTU-course-notes/tree/main/CS2303%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)
+    * [@VinylCat, 2023 Spring](https://github.com/VinylCat/CS2303)
 
 <a name="cs2304"></a>
 ### CS2304 (原 CS499) - 计算机科学中的数学基础
@@ -373,6 +379,9 @@
 * Homework & Lab
     * [@ADSWT518, 2022 Spring](https://github.com/ADSWT518/system-security-lab-hw)
 
+* Lab
+    * [@OsamuSkyhacker, 2024 Spring](https://github.com/OsamuSkyhacker/SJTU-CS3312-Lab)
+
 <a name="cs3313"></a>
 ### CS3313 (原 CS467) - 计算理论
 
@@ -441,6 +450,12 @@
     * [@untitled-group, 2021 Spring](https://github.com/untitled-group/kanbasu)
 * 笔记
     * [@pangbo13, 2022 Spring](https://github.com/pangbo13/Courses/tree/main/EE458%20%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
+ 
+<a name="cs3333"></a>
+### CS3333 (原 CS4307) - 博弈论
+
+* Homework and Project
+    * [@Nadeshiko, 2024 Spring](https://github.com/Nadeshiko725/CS3333-Game-Theory)
 
 <a name="cs3507"></a>
 ### CS3507 (原 EI328) - 工程实践与科技创新IV-J
@@ -453,10 +468,13 @@
 <a name="cs3511"></a>
 ### CS3511 - 工程实践与科技创新Ⅳ-I
 
-* Homework
-    * [@Junyi42, 2023 Spring](https://github.com/Junyi42/CS3511-Federated-Learning) (Federated learning)
-* Project
+* Individual Project
+    * Federated learning
+        * [@Junyi42, 2023 Spring](https://github.com/Junyi42/CS3511-Federated-Learning)
+        * [@UNIkeEN, 2024 Spring](https://github.com/UNIkeEN/CS3511-Federated-Learning)
+* Group Project
     * [@Junyi42, 2023 Spring](https://github.com/Junyi42/DiffSketch)
+    * [@VinylCat @OnI0n @wxydada, 2024 Spring](https://github.com/VinylCat/CS3511)
 
 <a name="cs3512"></a>
 ### CS3512 (原 EI314) - 工程实践与科技创新III-E
