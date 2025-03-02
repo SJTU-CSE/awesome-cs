@@ -96,12 +96,14 @@
     * [@UNIkeEN, 2022 Fall](https://github.com/UNIkeEN/course-notes/tree/main/CS0501_Data%20Structure)
 * 小作业
     * [#29](https://github.com/SJTU-CSE/awesome-cs/pull/29) 数据结构（荣誉）课程助教不建议公开索引代码。
- 
+
 <a name="cs1501"></a>
+
 ### CS1501 - 程序设计思想与方法
 
-* Lab
-   * [@Mikujoker, 2024 Spring](https://github.com/Mikujoker/CPPReference/tree/master)
+* Lab 
+    * [@Mikujoker, 2023 Spring](https://github.com/Mikujoker/CPPReference)  
+    * [@Mikujoker, 2024 Spring](https://github.com/Mikujoker/CPPReference/tree/master)
 
 <a name="cs1603"></a>
 ### CS1603 (原 CS125) - 程序设计
