@@ -53,7 +53,7 @@ def parse_info(line):
 
 
 def parse_toc(line):
-    x = re.search(r"\[(.*?): (.*?)\]\(#(.*?)\)", line)
+    x = re.search(r"\[(.*?)(?: \(原 (?:.*?)\))?: (.*?)\]\(#(.*?)\)", line)
     if not x:
         return False, f"failed to parse: no [ID, course name](#anchor) found"
     course_id, course_name, anchor = x.group(1), x.group(2), x.group(3)
@@ -186,7 +186,7 @@ class MdRenderer(BaseRenderer):
         append_text = ""
         prepend_text = ""
         if level == 3:
-            result = re.match("(.*) - (.*)", text)
+            result = re.match(r"([^\(\)]*) (?:\(原 (?:.*)\) )?- (.*)", text)
             if result:
                 anchor = parse_anchor(self.last_html)
                 self.last_html = ""
