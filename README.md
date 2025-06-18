@@ -343,6 +343,7 @@
   * [@UNIkeEN, 2024 Spring](https://github.com/UNIkeEN/course-notes/blob/main/CS3308_Machine%20Learning/%E7%AE%80%E8%A6%81%E7%AC%94%E8%AE%B0.pdf)
 * Project
   * [@OnI0n @UNIkeEN @Ace Taffy, 2024 Spring](https://github.com/UNIkeEN/CS3308-ML-Project)
+  * [@hitefork @Chiang-17 @12y1y38, 2024 Fall](https://github.com/hitefork/ML-proj-BPP)
 
 <a name="cs3310"></a>
 ### CS3310 (原 CS337) - 计算机图形学
@@ -443,6 +444,7 @@
     * [@Victrid, 2021 Fall](https://github.com/Victrid/CS236-Cloud-Experiment)
     * [@wang-jiahua, 2022 Fall](https://github.com/wang-jiahua/cc-lab)
     * [@UNIkeEN, 2023 Fall](https://github.com/UNIkeEN/course-notes/tree/main/CS3328_Cloud%20Computing%20Technology)
+    * [@hitefork, 2024 Fall](https://github.com/hitefork/CS3331)
 
 <a name="cs3331"></a>
 ### CS3331 (原 EE458) - 软件工程
@@ -513,6 +515,7 @@
 
 * Project
     * [@zszheng147 @Junyi42, 2022 Fall](https://github.com/zszheng147/SLU-project-CS4314)
+    * [@byrTony-Frankzyq @xrysamuel @hitefork, 2024 Fall](https://github.com/zszheng147/SLU-project-CS4314)
 
 <a name="ice3608"></a>
 ### ICE3608 (原 EE447) - 移动互联网
