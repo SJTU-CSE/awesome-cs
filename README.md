@@ -515,7 +515,7 @@
 
 * Project
     * [@zszheng147 @Junyi42, 2022 Fall](https://github.com/zszheng147/SLU-project-CS4314)
-    * [@byrTony-Frankzyq @xrysamuel @hitefork, 2024 Fall](https://github.com/zszheng147/SLU-project-CS4314)
+    * [@byrTony-Frankzyq @xrysamuel @hitefork, 2024 Fall](https://github.com/hitefork/nlp_2024)
 
 <a name="ice3608"></a>
 ### ICE3608 (原 EE447) - 移动互联网
