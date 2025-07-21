@@ -188,6 +188,7 @@
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)
     * [@jianke0604, 2023 Spring](https://github.com/jianke0604/SJTU-course-notes/tree/main/CS2303%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)
     * [@VinylCat, 2023 Spring](https://github.com/VinylCat/CS2303)
+    * [@SusieGlitter, 2025 Spring](https://github.com/SusieGlitter/CS2303)
     * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2303%20Operating%20System%20Projects)
 
 <a name="cs2304"></a>
