@@ -202,6 +202,7 @@
     * [@davids1896, 2021 Spring](https://github.com/davids1896/CS499) 中文班
     * [@RenyangGuan, 2021 Spring](https://github.com/guanrenyang/SJTU-Course-Notes/tree/main/CS499-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80) 中文班
     * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/SJTU_Course_Notes) 中文班
+    * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2304%20Mathematics%20Foundation%20of%20Computer%20Science) 中文班
 
 <a name="cs2305"></a>
 
