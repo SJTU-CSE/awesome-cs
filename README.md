@@ -269,6 +269,7 @@
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/EI209%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90) 中文班
     * [@RenyangGuan, 2021 Spring](https://github.com/guanrenyang/EI209-Computer-Conposition-Experiment.git) 中文班
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90) 中文班
+    * [@uu-matter543, 2025 Fall](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2307%20Computer%20Organization) 中文班
 
 <a name="cs2308"></a>
 ### CS2308 (原 CS214) - 算法与复杂性
