@@ -102,8 +102,10 @@
 ### CS1501 - 程序设计思想与方法
 
 * Lab 
-    * [@Mikujoker, 2023 Spring](https://github.com/Mikujoker/CPPReference)  
+    * [@Mikujoker, 2023 Spring](https://github.com/Mikujoker/CPPReference)
     * [@Mikujoker, 2024 Spring](https://github.com/Mikujoker/CPPReference/tree/master)
+* 笔记
+    * [@uu-matter543, 2023 Fall](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS1501%20Thinking%20and%20Methodology%20in%20Programming(C%2B%2B))
 
 <a name="cs1603"></a>
 ### CS1603 (原 CS125) - 程序设计
@@ -189,7 +191,7 @@
     * [@jianke0604, 2023 Spring](https://github.com/jianke0604/SJTU-course-notes/tree/main/CS2303%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)
     * [@VinylCat, 2023 Spring](https://github.com/VinylCat/CS2303)
     * [@SusieGlitter, 2025 Spring](https://github.com/SusieGlitter/CS2303)
-    * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2303%20Operating%20System%20Projects)
+    * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2303%20Project%20Workshop%20of%20Operating%20System)
 
 <a name="cs2304"></a>
 ### CS2304 (原 CS499) - 计算机科学中的数学基础
@@ -202,7 +204,7 @@
     * [@davids1896, 2021 Spring](https://github.com/davids1896/CS499) 中文班
     * [@RenyangGuan, 2021 Spring](https://github.com/guanrenyang/SJTU-Course-Notes/tree/main/CS499-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80) 中文班
     * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/SJTU_Course_Notes) 中文班
-    * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2304%20Mathematics%20Foundation%20of%20Computer%20Science) 中文班
+    * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2304%20Mathematical%20Foundations%20of%20Computer%20Science)
 
 <a name="cs2305"></a>
 
@@ -279,7 +281,7 @@
     * [@LuminousXLB, 2020 Spring](https://github.com/LuminousXLB/Algorithms-Notes)
     * [@jianke0604, 2023 Spring](https://github.com/jianke0604/SJTU-course-notes/tree/main/CS2308%20%E7%AE%97%E6%B3%95%E4%B8%8E%E5%A4%8D%E6%9D%82%E6%80%A7)
     * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/course-notes/tree/main/CS2308_Algorithm%20and%20Complexity)
-    * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2308%20Algorithm%20%26%20Complexity)
+    * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2308%20Algorithm%20and%20Complexity) 作业+笔记
 * 英文班 Project
     * [@Galaxies99 @KoalaYan @DicardoX, 2020 Spring](https://github.com/Galaxies99/CS214-Project) 
     * [@YanjieZe @Purewhite2019 @Renyang2ZC, 2021 Spring](https://github.com/YanjieZe/Project-CS214)
