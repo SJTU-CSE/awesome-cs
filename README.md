@@ -46,6 +46,7 @@
 * [CS2308 (原 CS214): 算法与复杂性](#cs2308)
 * [CS2309 (原 CS241): 问题求解与实践](#cs2309)
 * [CS2310 (原 CS2302, CS307): 现代操作系统](#cs2310)
+* [CS2522 (原 EI313): 工程实践与科技创新III-E](#cs2522)
 * [CS3301 (原 CS473): GPU计算及深度学习](#cs3301)
 * [CS3303 (原 SE353): 程序分析与验证](#cs3303)
 * [CS3304 (原 CS383): 程序设计语言](#cs3304)
@@ -239,6 +240,7 @@
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS145%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
     * [@w1049, 2023 Spring](https://github.com/w1049/SJTU-course/tree/main/Archlabs)
+    * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2306%20Computer%20System%20Architecture%20Labs)
 * Lab 5
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
     * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/MIPS/tree/master)
@@ -248,6 +250,7 @@
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS145%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
     * [@w1049, 2023 Spring](https://github.com/w1049/SJTU-course/tree/main/Archlabs)
+    * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2306%20Computer%20System%20Architecture%20Labs)
 * Lab 6
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
     * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/MIPS/tree/pipe)
@@ -257,6 +260,7 @@
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS145%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
     * [@w1049, 2023 Spring](https://github.com/w1049/SJTU-course/tree/main/Archlabs)
+    * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2306%20Computer%20System%20Architecture%20Labs)
 
 <a name="cs2307"></a>
 ### CS2307 (原 EI209) - 计算机组成
@@ -315,8 +319,15 @@
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
+    * [uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2310%20Modern%20Operating%20Systems)
 * 作业
     * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/course-notes/tree/main/CS2310_Modern%20Operating%20Systems) 英文班
+
+<a name="cs2522"></a>
+### CS2522 (原 EI313) - 工程实践与科技创新III-D
+
+* Lab
+    * [@uu-matter543, 2025 Fall](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2522%20Science%20and%20Technology%20Innovation%203D)
   
 <a name="cs3301"></a>
 ### CS3301 (原 CS473) - GPU计算及深度学习
@@ -398,6 +409,8 @@
 * 笔记
     * [@Galaxies99, 2020 Fall](https://github.com/Galaxies99/SJTU-course-notes) 中文班
     * [@Victrid, 2021 Fall](https://github.com/Victrid/CS467-Theory-of-Computing-Notes) 英文班
+* 作业
+    * [@uu-matter543, 2025 Fall](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS3313%20Computing%20Theory)
 
 <a name="cs3314"></a>
 ### CS3314 (原 IS307) - 密码学与信息安全基础
