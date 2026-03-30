@@ -46,7 +46,7 @@
 * [CS2308 (原 CS214): 算法与复杂性](#cs2308)
 * [CS2309 (原 CS241): 问题求解与实践](#cs2309)
 * [CS2310 (原 CS2302, CS307): 现代操作系统](#cs2310)
-* [CS2522 (原 EI313): 工程实践与科技创新III-E](#cs2522)
+* [CS2522 (原 EI313): 工程实践与科技创新III-D](#cs2522)
 * [CS3301 (原 CS473): GPU计算及深度学习](#cs3301)
 * [CS3303 (原 SE353): 程序分析与验证](#cs3303)
 * [CS3304 (原 CS383): 程序设计语言](#cs3304)
@@ -319,7 +319,7 @@
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
-    * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2310%20Modern%20Operating%20Systems)
+    * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2310%20Modern%20Operating%20Systems) 中文班
 * 作业
     * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/course-notes/tree/main/CS2310_Modern%20Operating%20Systems) 英文班
 
@@ -410,7 +410,7 @@
     * [@Galaxies99, 2020 Fall](https://github.com/Galaxies99/SJTU-course-notes) 中文班
     * [@Victrid, 2021 Fall](https://github.com/Victrid/CS467-Theory-of-Computing-Notes) 英文班
 * 作业
-    * [@uu-matter543, 2025 Fall](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS3313%20Computing%20Theory)
+    * [@uu-matter543, 2025 Fall](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS3313%20Computing%20Theory) 中文班
 
 <a name="cs3314"></a>
 ### CS3314 (原 IS307) - 密码学与信息安全基础
