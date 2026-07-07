@@ -193,6 +193,7 @@
     * [@VinylCat, 2023 Spring](https://github.com/VinylCat/CS2303)
     * [@SusieGlitter, 2025 Spring](https://github.com/SusieGlitter/CS2303)
     * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2303%20Project%20Workshop%20of%20Operating%20System)
+    * [@EternalWavee, 2026 Spring](https://github.com/EternalWavee/sjtu-cs-archive/tree/main/CS2313)
 
 <a name="cs2304"></a>
 ### CS2304 (原 CS499) - 计算机科学中的数学基础
@@ -206,6 +207,7 @@
     * [@RenyangGuan, 2021 Spring](https://github.com/guanrenyang/SJTU-Course-Notes/tree/main/CS499-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80) 中文班
     * [@YanjieZe, 2021 Spring](https://github.com/YanjieZe/SJTU_Course_Notes) 中文班
     * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2304%20Mathematical%20Foundations%20of%20Computer%20Science)
+   * [@EternalWavee, 2026 Spring](https://github.com/EternalWavee/sjtu-cs-archive/tree/main/CS2304) 中文班
 
 <a name="cs2305"></a>
 
@@ -215,6 +217,7 @@
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
     * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/course-notes/tree/main/CS2305_Computer%20System%20Architecture) 中文班
+    * [@EternalWavee, 2026 Spring](https://github.com/EternalWavee/sjtu-cs-archive/tree/main/CS2314) 中文班
 * 课程实践（中文班）
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/CS359%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84)
     * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/course-notes/tree/main/CS2305_Computer%20System%20Architecture)
@@ -241,6 +244,7 @@
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
     * [@w1049, 2023 Spring](https://github.com/w1049/SJTU-course/tree/main/Archlabs)
     * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2306%20Computer%20System%20Architecture%20Labs)
+    * [@EternalWavee, 2026 Spring](https://github.com/EternalWavee/sjtu-cs-archive/tree/main/CS2306)
 * Lab 5
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
     * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/MIPS/tree/master)
@@ -251,6 +255,7 @@
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
     * [@w1049, 2023 Spring](https://github.com/w1049/SJTU-course/tree/main/Archlabs)
     * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2306%20Computer%20System%20Architecture%20Labs)
+    * [@EternalWavee, 2026 Spring](https://github.com/EternalWavee/sjtu-cs-archive/tree/main/CS2306)
 * Lab 6
     * [@wzh99, 2019 Spring](https://github.com/wzh99/Archlabs)
     * [@BugenZhao, 2020 Spring](https://github.com/BugenZhao/MIPS/tree/pipe)
@@ -261,6 +266,7 @@
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
     * [@w1049, 2023 Spring](https://github.com/w1049/SJTU-course/tree/main/Archlabs)
     * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2306%20Computer%20System%20Architecture%20Labs)
+    * [@EternalWavee, 2026 Spring](https://github.com/EternalWavee/sjtu-cs-archive/tree/main/CS2306)
 
 <a name="cs2307"></a>
 ### CS2307 (原 EI209) - 计算机组成
@@ -270,12 +276,14 @@
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 中文班
     * [@RenyangGuan, 2021 Spring](https://github.com/guanrenyang/SJTU-Course-Notes/tree/main/EI209-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90) 中文班
+    * [@EternalWavee, 2026 Spring](https://github.com/EternalWavee/sjtu-cs-archive/tree/main/CS2307) 英文班
 * lab
     * [@davids1896, 2021 Spring](https://github.com/davids1896/SJTU-EI209-Lab_Computer_Organization)
     * [@pangbo13, 2021 Spring](https://github.com/pangbo13/Courses/tree/main/EI209%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90) 中文班
     * [@RenyangGuan, 2021 Spring](https://github.com/guanrenyang/EI209-Computer-Conposition-Experiment.git) 中文班
     * [@XuanchengYao, 2022 Spring](https://github.com/2212582443/Homework-of-cs/tree/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90) 中文班
     * [@uu-matter543, 2024 Fall](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2307%20Computer%20Organization) 中文班
+    * [@EternalWavee, 2026 Spring](https://github.com/EternalWavee/sjtu-cs-archive/tree/main/CS2307) 英文班
 
 <a name="cs2308"></a>
 ### CS2308 (原 CS214) - 算法与复杂性
@@ -293,7 +301,9 @@
     * [@Flash-321, 2020 Spring](https://github.com/Flash-321/Course-Note-CS-SJTU-2019-2020-2) 中文班
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 英文班
     * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2308%20Algorithm%20and%20Complexity) 中文班
-
+    * [@EternalWavee, 2026 Spring](https://github.com/EternalWavee/sjtu-cs-archive/tree/main/CS2312) 强化班
+* 强化班 Lab
+    * [@EternalWavee, 2026 Spring](https://github.com/EternalWavee/sjtu-cs-archive/tree/main/CS2312)
 <a name="cs2309"></a>
 ### CS2309 (原 CS241) - 问题求解与实践
 
@@ -320,8 +330,10 @@
     * [@Galaxies99, 2020 Spring](https://github.com/Galaxies99/SJTU-course-notes) 中文班
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
     * [@uu-matter543, 2025 Spring](https://github.com/uu-matter543/SJTU-Course-Resource/tree/SJTU-Course-Resource/CS2310%20Modern%20Operating%20Systems) 中文班
+    * [@EternalWavee, 2026 Spring](https://github.com/EternalWavee/sjtu-cs-archive/tree/main/CS2311) 强化班
 * 作业
     * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/course-notes/tree/main/CS2310_Modern%20Operating%20Systems) 英文班
+    * [@EternalWavee, 2026 Spring](https://github.com/EternalWavee/sjtu-cs-archive/tree/main/CS2311) 强化班
 
 <a name="cs2522"></a>
 ### CS2522 (原 EI313) - 工程实践与科技创新III-D
